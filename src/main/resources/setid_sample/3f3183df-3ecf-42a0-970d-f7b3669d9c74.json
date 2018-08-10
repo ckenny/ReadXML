@@ -1,0 +1,1188 @@
+{
+	"document": {
+		"id": {
+			"root": "3f3183df-3ecf-42a0-970d-f7b3669d9c74"
+		},
+		"code": {
+			"code": "34390-5",
+			"codeSystem": "2.16.840.1.113883.6.1",
+			"displayName": "HUMAN OTC DRUG LABEL"
+		},
+		"title": "Cardinal Health Ranitidine Tablets 150 mg Drug Facts",
+		"effectiveTime": {
+			"value": "20180803"
+		},
+		"setId": {
+			"root": "3f3183df-3ecf-42a0-970d-f7b3669d9c74"
+		},
+		"versionNumber": {
+			"value": "1"
+		},
+		"author": {
+			"time": "",
+			"assignedEntity": {
+				"representedOrganization": {
+					"id": {
+						"extension": "097537435",
+						"root": "1.3.6.1.4.1.519.1"
+					},
+					"name": "Cardinal Health"
+				}
+			}
+		},
+		"component": {
+			"structuredBody": {
+				"component": [
+					{
+						"section": {
+							"id": {
+								"root": "1442c0be-ec67-4b9d-befb-1657fe9beaf6"
+							},
+							"code": {
+								"code": "48780-1",
+								"codeSystem": "2.16.840.1.113883.6.1",
+								"displayName": "SPL product data elements section"
+							},
+							"effectiveTime": {
+								"value": "20180803"
+							},
+							"subject": {
+								"manufacturedProduct": {
+									"manufacturedProduct": {
+										"code": {
+											"code": "70000-0377",
+											"codeSystem": "2.16.840.1.113883.6.69"
+										},
+										"name": "Leader Ranitidine",
+										"formCode": {
+											"code": "C42931",
+											"codeSystem": "2.16.840.1.113883.3.26.1.1",
+											"displayName": "TABLET, FILM COATED"
+										},
+										"asEntityWithGeneric": {
+											"genericMedicine": {
+												"name": "Ranitidine"
+											}
+										},
+										"ingredient": [
+											{
+												"quantity": {
+													"numerator": {
+														"unit": "mg",
+														"value": "150"
+													},
+													"denominator": {
+														"unit": "1",
+														"value": "1"
+													}
+												},
+												"ingredientSubstance": {
+													"code": {
+														"code": "BK76465IHM",
+														"codeSystem": "2.16.840.1.113883.4.9"
+													},
+													"name": "RANITIDINE HYDROCHLORIDE",
+													"activeMoiety": {
+														"activeMoiety": {
+															"code": {
+																"code": "884KT10YB7",
+																"codeSystem": "2.16.840.1.113883.4.9"
+															},
+															"name": "RANITIDINE"
+														}
+													}
+												},
+												"classCode": "ACTIM"
+											},
+											{
+												"ingredientSubstance": {
+													"code": {
+														"code": "35SW5USQ3G",
+														"codeSystem": "2.16.840.1.113883.4.9"
+													},
+													"name": "D&C YELLOW NO. 10"
+												},
+												"classCode": "IACT"
+											},
+											{
+												"ingredientSubstance": {
+													"code": {
+														"code": "L06K8R7DQK",
+														"codeSystem": "2.16.840.1.113883.4.9"
+													},
+													"name": "FD&C BLUE NO. 2"
+												},
+												"classCode": "IACT"
+											},
+											{
+												"ingredientSubstance": {
+													"code": {
+														"code": "WZB9127XOA",
+														"codeSystem": "2.16.840.1.113883.4.9"
+													},
+													"name": "FD&C RED NO. 40"
+												},
+												"classCode": "IACT"
+											},
+											{
+												"ingredientSubstance": {
+													"code": {
+														"code": "3NXW29V3WO",
+														"codeSystem": "2.16.840.1.113883.4.9"
+													},
+													"name": "HYPROMELLOSES"
+												},
+												"classCode": "IACT"
+											},
+											{
+												"ingredientSubstance": {
+													"code": {
+														"code": "70097M6I30",
+														"codeSystem": "2.16.840.1.113883.4.9"
+													},
+													"name": "MAGNESIUM STEARATE"
+												},
+												"classCode": "IACT"
+											},
+											{
+												"ingredientSubstance": {
+													"code": {
+														"code": "OP1R32D61U",
+														"codeSystem": "2.16.840.1.113883.4.9"
+													},
+													"name": "CELLULOSE, MICROCRYSTALLINE"
+												},
+												"classCode": "IACT"
+											},
+											{
+												"ingredientSubstance": {
+													"code": {
+														"code": "15FIX9V2JP",
+														"codeSystem": "2.16.840.1.113883.4.9"
+													},
+													"name": "TITANIUM DIOXIDE"
+												},
+												"classCode": "IACT"
+											},
+											{
+												"ingredientSubstance": {
+													"code": {
+														"code": "XHX3C3X673",
+														"codeSystem": "2.16.840.1.113883.4.9"
+													},
+													"name": "TRIACETIN"
+												},
+												"classCode": "IACT"
+											}
+										],
+										"asContent": {
+											"quantity": {
+												"numerator": {
+													"unit": "1",
+													"value": "1"
+												},
+												"denominator": {
+													"value": "1"
+												}
+											},
+											"containerPackagedProduct": {
+												"code": "",
+												"formCode": {
+													"code": "C43168",
+													"codeSystem": "2.16.840.1.113883.3.26.1.1",
+													"displayName": "BLISTER PACK"
+												},
+												"asContent": {
+													"quantity": {
+														"numerator": {
+															"unit": "1",
+															"value": "24"
+														},
+														"denominator": {
+															"value": "1"
+														}
+													},
+													"containerPackagedProduct": {
+														"code": {
+															"code": "70000-0377-1",
+															"codeSystem": "2.16.840.1.113883.6.69"
+														},
+														"formCode": {
+															"code": "C43182",
+															"codeSystem": "2.16.840.1.113883.3.26.1.1",
+															"displayName": "CARTON"
+														}
+													},
+													"subjectOf": {
+														"marketingAct": {
+															"code": {
+																"code": "C53292",
+																"codeSystem": "2.16.840.1.113883.3.26.1.1"
+															},
+															"statusCode": {
+																"code": "active"
+															},
+															"effectiveTime": {
+																"low": {
+																	"value": "20180803"
+																}
+															}
+														}
+													}
+												}
+											},
+											"subjectOf": {
+												"characteristic": {
+													"code": {
+														"code": "SPLCMBPRDTP",
+														"codeSystem": "2.16.840.1.113883.1.11.19255"
+													},
+													"value": {
+														"code": "C112160",
+														"codeSystem": "2.16.840.1.113883.3.26.1.1",
+														"displayName": "Type 0: Not a Combination Product",
+														"xsi:type": "CE"
+													},
+													"classCode": "OBS"
+												}
+											}
+										}
+									},
+									"subjectOf": [
+										{
+											"approval": {
+												"id": {
+													"extension": "ANDA091429",
+													"root": "2.16.840.1.113883.3.150"
+												},
+												"code": {
+													"code": "C73584",
+													"codeSystem": "2.16.840.1.113883.3.26.1.1",
+													"displayName": "ANDA"
+												},
+												"author": {
+													"territorialAuthority": {
+														"territory": {
+															"code": {
+																"code": "USA",
+																"codeSystem": "2.16.840.1.113883.5.28"
+															}
+														}
+													}
+												}
+											}
+										},
+										{
+											"marketingAct": {
+												"code": {
+													"code": "C53292",
+													"codeSystem": "2.16.840.1.113883.3.26.1.1"
+												},
+												"statusCode": {
+													"code": "active"
+												},
+												"effectiveTime": {
+													"low": {
+														"value": "20180803"
+													}
+												}
+											}
+										},
+										{
+											"characteristic": {
+												"code": {
+													"code": "SPLCOLOR",
+													"codeSystem": "2.16.840.1.113883.1.11.19255"
+												},
+												"value": {
+													"originalText": "Pinkish",
+													"code": "C48332",
+													"codeSystem": "2.16.840.1.113883.3.26.1.1",
+													"displayName": "BROWN",
+													"xsi:type": "CE"
+												},
+												"classCode": "OBS"
+											}
+										},
+										{
+											"characteristic": {
+												"code": {
+													"code": "SPLSIZE",
+													"codeSystem": "2.16.840.1.113883.1.11.19255"
+												},
+												"value": {
+													"unit": "mm",
+													"value": "10",
+													"xsi:type": "PQ"
+												},
+												"classCode": "OBS"
+											}
+										},
+										{
+											"characteristic": {
+												"code": {
+													"code": "SPLSHAPE",
+													"codeSystem": "2.16.840.1.113883.1.11.19255"
+												},
+												"value": {
+													"code": "C48348",
+													"codeSystem": "2.16.840.1.113883.3.26.1.1",
+													"displayName": "ROUND",
+													"xsi:type": "CE"
+												},
+												"classCode": "OBS"
+											}
+										},
+										{
+											"characteristic": {
+												"code": {
+													"code": "SPLSCORE",
+													"codeSystem": "2.16.840.1.113883.1.11.19255"
+												},
+												"value": {
+													"value": "1",
+													"xsi:type": "INT"
+												},
+												"classCode": "OBS"
+											}
+										},
+										{
+											"characteristic": {
+												"code": {
+													"code": "SPLIMPRINT",
+													"codeSystem": "2.16.840.1.113883.1.11.19255"
+												},
+												"value": {
+													"xsi:type": "ST",
+													"text": "L852"
+												},
+												"classCode": "OBS"
+											}
+										}
+									],
+									"consumedIn": {
+										"substanceAdministration": {
+											"routeCode": {
+												"code": "C38288",
+												"codeSystem": "2.16.840.1.113883.3.26.1.1",
+												"displayName": "ORAL"
+											}
+										}
+									}
+								}
+							}
+						}
+					},
+					{
+						"section": {
+							"id": {
+								"root": "3e880459-b7c5-4b17-a4d6-d7a83b0378a0"
+							},
+							"code": {
+								"code": "55106-9",
+								"codeSystem": "2.16.840.1.113883.6.1",
+								"displayName": "OTC - ACTIVE INGREDIENT SECTION"
+							},
+							"title": "Active ingredient (in each tablet)",
+							"text": {
+								"paragraph": "Ranitidine 150 mg (as ranitidine hydrochloride 168 mg)"
+							},
+							"effectiveTime": {
+								"value": "20180803"
+							},
+							"ID": "i4i_OTC_Active_Ingredient_id_e82a165f-1bf9-44fe-a65e-b10fa11d27fd"
+						}
+					},
+					{
+						"section": {
+							"id": {
+								"root": "73cd2fd1-12e4-4f75-a044-69214a8a54e7"
+							},
+							"code": {
+								"code": "55105-1",
+								"codeSystem": "2.16.840.1.113883.6.1",
+								"displayName": "OTC - PURPOSE SECTION"
+							},
+							"title": "Purpose",
+							"text": {
+								"paragraph": "Acid reducer"
+							},
+							"effectiveTime": {
+								"value": "20180803"
+							},
+							"ID": "i4i_OTC_Purpose_id_0d423011-b34e-4ea2-9912-1c083cb52e67"
+						}
+					},
+					{
+						"section": {
+							"id": {
+								"root": "f47d77b2-e137-42cc-ad1e-9ecb2b838a53"
+							},
+							"code": {
+								"code": "34067-9",
+								"codeSystem": "2.16.840.1.113883.6.1",
+								"displayName": "INDICATIONS & USAGE SECTION"
+							},
+							"title": "Uses",
+							"text": {
+								"list": {
+									"item": [
+										{
+											"caption": "•",
+											"text": "relieves heartburn associated with acid indigestion and sour stomach"
+										},
+										{
+											"caption": "•",
+											"text": "prevents heartburn associated with acid indigestion and sour stomach brought on by eating or drinking certain foods and beverages"
+										}
+									],
+									"listType": "unordered"
+								}
+							},
+							"effectiveTime": {
+								"value": "20180803"
+							},
+							"ID": "i4i_indications_id_4f72e7db-541a-4b6c-bc3a-3dff7064c84e"
+						}
+					},
+					{
+						"section": {
+							"id": {
+								"root": "cf41f35d-9f4c-4a7b-a164-40673c353492"
+							},
+							"code": {
+								"code": "34071-1",
+								"codeSystem": "2.16.840.1.113883.6.1",
+								"displayName": "WARNINGS SECTION"
+							},
+							"title": "Warnings",
+							"text": {
+								"paragraph": "Allergy alert: Do not use if you are allergic to ranitidine or other acid reducers"
+							},
+							"effectiveTime": {
+								"value": "20180803"
+							},
+							"component": [
+								{
+									"section": {
+										"id": {
+											"root": "ab912129-4aa2-4bf4-9283-e36afd779e64"
+										},
+										"code": {
+											"code": "50570-1",
+											"codeSystem": "2.16.840.1.113883.6.1",
+											"displayName": "OTC - DO NOT USE SECTION"
+										},
+										"title": "Do not use",
+										"text": {
+											"list": {
+												"item": [
+													{
+														"caption": "•",
+														"text": "if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor."
+													},
+													{
+														"caption": "•",
+														"text": "with other acid reducers"
+													},
+													{
+														"caption": "•",
+														"text": "if you have kidney disease, except under the advice and supervision of a doctor"
+													}
+												],
+												"listType": "unordered"
+											}
+										},
+										"effectiveTime": {
+											"value": "20180803"
+										},
+										"ID": "i4i_OTC_Do_not_use_id_fa02cf9f-5e85-4da8-bcb8-29e5d6a17563"
+									}
+								},
+								{
+									"section": {
+										"id": {
+											"root": "ea480ea7-0518-4459-b036-3e5329eb8707"
+										},
+										"code": {
+											"code": "50569-3",
+											"codeSystem": "2.16.840.1.113883.6.1",
+											"displayName": "OTC - ASK DOCTOR SECTION"
+										},
+										"title": "Ask a doctor before use if you have",
+										"text": {
+											"list": {
+												"item": [
+													{
+														"caption": "•",
+														"text": "had heartburn over 3 months. This may be a sign of a more serious condition."
+													},
+													{
+														"caption": "•",
+														"text": "heartburn with lightheadedness, sweating or dizziness"
+													},
+													{
+														"caption": "•",
+														"text": "chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness"
+													},
+													{
+														"caption": "•",
+														"text": "frequent chest pain"
+													},
+													{
+														"caption": "•",
+														"text": "frequent wheezing, particularly with heartburn"
+													},
+													{
+														"caption": "•",
+														"text": "unexplained weight loss"
+													},
+													{
+														"caption": "•",
+														"text": "nausea or vomiting"
+													},
+													{
+														"caption": "•",
+														"text": "stomach pain"
+													}
+												],
+												"listType": "unordered"
+											}
+										},
+										"effectiveTime": {
+											"value": "20180803"
+										},
+										"ID": "i4i_OTC_Ask_Doctor_id_6665c04c-d4ac-4f00-b4fd-e8c13d7a96c1"
+									}
+								},
+								{
+									"section": {
+										"id": {
+											"root": "735dc0aa-d763-4fe5-b9bf-47733f11c48f"
+										},
+										"code": {
+											"code": "50566-9",
+											"codeSystem": "2.16.840.1.113883.6.1",
+											"displayName": "OTC - STOP USE SECTION"
+										},
+										"title": "Stop use and ask a doctor if",
+										"text": {
+											"list": {
+												"item": [
+													{
+														"caption": "•",
+														"text": "your heartburn continues or worsens"
+													},
+													{
+														"caption": "•",
+														"text": "you need to take this product for more than 14 days"
+													}
+												],
+												"listType": "unordered"
+											}
+										},
+										"effectiveTime": {
+											"value": "20180803"
+										},
+										"ID": "i4i_OTC_Stop_Use_id_4e617852-843d-44d3-85b5-58bca961a31d"
+									}
+								},
+								{
+									"section": {
+										"id": {
+											"root": "283a03a0-ec88-45ee-adb6-b1eb27fc0064"
+										},
+										"code": {
+											"code": "53414-9",
+											"codeSystem": "2.16.840.1.113883.6.1",
+											"displayName": "OTC - PREGNANCY OR BREAST FEEDING SECTION"
+										},
+										"title": "If pregnant or breast-feeding,",
+										"text": {
+											"paragraph": "ask a health professional before use."
+										},
+										"effectiveTime": {
+											"value": "20180803"
+										},
+										"ID": "i4i_OTC_Pregancy_Breastfeeding_id_0a05aea6-1bc6-4edc-97fa-c486d02b8b76"
+									}
+								},
+								{
+									"section": {
+										"id": {
+											"root": "891bf52f-e3ae-4128-a417-a398d9a50c0c"
+										},
+										"code": {
+											"code": "50565-1",
+											"codeSystem": "2.16.840.1.113883.6.1",
+											"displayName": "OTC - KEEP OUT OF REACH OF CHILDREN SECTION"
+										},
+										"title": "Keep out of reach of children.",
+										"text": {
+											"paragraph": {
+												"content": {
+													"styleCode": "bold",
+													"text": ")."
+												},
+												"text": "In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222"
+											}
+										},
+										"effectiveTime": {
+											"value": "20180803"
+										},
+										"ID": "i4i_OTC_Keep_Away_Children_id_2201691b-fe61-4087-87dc-4bfbe962d134"
+									}
+								}
+							],
+							"ID": "i4i_warnings_id_59d9d4f9-b37e-49ba-a211-777bb2a06925"
+						}
+					},
+					{
+						"section": {
+							"id": {
+								"root": "c2545201-df2b-4c74-9d73-00163508e221"
+							},
+							"code": {
+								"code": "34068-7",
+								"codeSystem": "2.16.840.1.113883.6.1",
+								"displayName": "DOSAGE & ADMINISTRATION SECTION"
+							},
+							"title": "Directions",
+							"text": {
+								"list": {
+									"item": [
+										{
+											"caption": "•",
+											"text": "adults and children 12 years and over:"
+										},
+										{
+											"caption": "•",
+											"text": "to relieve symptoms, swallow 1 tablet with a glass of water"
+										},
+										{
+											"caption": "•",
+											"text": "to prevent symptoms, swallow 1 tablet with a glass of water 30 to 60 minutes before eating food or drinking beverages that cause heartburn"
+										},
+										{
+											"caption": "•",
+											"text": "can be used up to twice daily (do not take more than 2 tablets in 24 hours)"
+										},
+										{
+											"caption": "•",
+											"text": "children under 12 years: ask a doctor"
+										}
+									],
+									"listType": "unordered"
+								}
+							},
+							"effectiveTime": {
+								"value": "20180803"
+							},
+							"ID": "i4i_dosage_admin_id_d7ac69db-9be2-419c-8a68-e5b66c68b4ff"
+						}
+					},
+					{
+						"section": {
+							"id": {
+								"root": "ee78253c-7824-46d0-a484-47df0b85ee5f"
+							},
+							"code": {
+								"code": "44425-7",
+								"codeSystem": "2.16.840.1.113883.6.1",
+								"displayName": "STORAGE AND HANDLING SECTION"
+							},
+							"title": "Other information",
+							"text": {
+								"list": {
+									"item": [
+										{
+											"caption": "•",
+											"text": "do not use if individual blister unit is open or torn"
+										},
+										{
+											"caption": "•",
+											"text": "store at 20°-25°C (68°-77°F)"
+										},
+										{
+											"caption": "•",
+											"text": "avoid excessive heat or humidity"
+										},
+										{
+											"caption": "•",
+											"text": "this product is sodium and sugar free"
+										}
+									],
+									"listType": "unordered"
+								}
+							},
+							"effectiveTime": {
+								"value": "20180803"
+							},
+							"ID": "i4i_storage_id_6afb397d-b272-4324-8174-216303a49b0c"
+						}
+					},
+					{
+						"section": {
+							"id": {
+								"root": "4c84655c-624b-4de6-84a4-882d4313b20c"
+							},
+							"code": {
+								"code": "51727-6",
+								"codeSystem": "2.16.840.1.113883.6.1",
+								"displayName": "INACTIVE INGREDIENT SECTION"
+							},
+							"title": "Inactive ingredients",
+							"text": {
+								"paragraph": "D&C yellow #10 aluminum lake, FD&C blue #2 aluminum lake, FD&C red #40 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, titanium dioxide, triacetin"
+							},
+							"effectiveTime": {
+								"value": "20180803"
+							},
+							"ID": "i4i_inactive_ingredients_id_af5cc3ca-165a-47b6-946b-42eeaf3cb53a"
+						}
+					},
+					{
+						"section": {
+							"id": {
+								"root": "7e408763-83f1-4dfa-a4bc-4bf1ff77d048"
+							},
+							"code": {
+								"code": "53413-1",
+								"codeSystem": "2.16.840.1.113883.6.1",
+								"displayName": "OTC - QUESTIONS SECTION"
+							},
+							"title": "Questions or comments?",
+							"text": {
+								"paragraph": "1-800-719-9260"
+							},
+							"effectiveTime": {
+								"value": "20180803"
+							},
+							"ID": "ID_7e408763-83f1-4dfa-a4bc-4bf1ff77d048"
+						}
+					},
+					{
+						"section": {
+							"id": {
+								"root": "d45088b8-56b9-4030-981e-35fe69eabafe"
+							},
+							"code": {
+								"code": "42229-5",
+								"codeSystem": "2.16.840.1.113883.6.1",
+								"displayName": "SPL UNCLASSIFIED SECTION"
+							},
+							"title": "Consumer Information",
+							"text": {
+								"paragraph": [
+									{
+										"content": {
+											"styleCode": "bold",
+											"text": "What you should know about MAXIMUM STRENGTH"
+										}
+									},
+									{
+										"content": {
+											"styleCode": "bold",
+											"text": "Ranitidine Tablets, 150 mg"
+										}
+									},
+									{
+										"content": {
+											"styleCode": "bold",
+											"text": "Acid Reducer"
+										}
+									},
+									"(Please read all of this information before taking MAXIMUM STRENGTH Ranitidine Tablets, 150 mg. Save this leaflet for future reference.)",
+									{
+										"content": {
+											"styleCode": "bold",
+											"text": "What are MAXIMUM STRENGTH Ranitidine Tablets, 150 mg?"
+										}
+									},
+									"• MAXIMUM STRENGTH Ranitidine Tablets, 150 mg contain 150 mg of ranitidine (as ranitidine hydrochloride, 168 mg), a medicine that doctors have prescribed more than 200 million times worldwide.",
+									{
+										"content": {
+											"styleCode": "bold",
+											"text": "Excellent Safety Record"
+										}
+									},
+									{
+										"content": {
+											"styleCode": "bold",
+											"text": "What symptoms do MAXIMUM STRENGTH Ranitidine Tablets, 150 mg relieve and prevent?"
+										}
+									},
+									{
+										"content": {
+											"styleCode": "bold",
+											"text": "How should I take MAXIMUM STRENGTH Ranitidine Tablets, 150 mg?"
+										}
+									},
+									{
+										"content": {
+											"styleCode": "bold",
+											"text": "How do MAXIMUM STRENGTH Ranitidine Tablets, 150 mg work?"
+										}
+									},
+									{
+										"content": {
+											"styleCode": "bold",
+											"text": "Tips for managing heartburn"
+										}
+									},
+									{
+										"content": {
+											"styleCode": "bold",
+											"text": "When should I see a doctor?"
+										}
+									},
+									{
+										"content": [
+											{
+												"content": {
+													"styleCode": "italics",
+													"text": "Questions or comments?"
+												},
+												"styleCode": "bold"
+											},
+											{
+												"styleCode": "bold",
+												"text": "1-800-719-9260"
+											}
+										]
+									},
+									{
+										"content": {
+											"styleCode": "bold",
+											"text": "BOTTLES: Bottle is sealed with printed foil under cap. Do not use if printed foil is open or torn"
+										},
+										"text": "."
+									},
+									{
+										"content": {
+											"styleCode": "bold",
+											"text": "BLISTERS: Do not use if the individual blister unit is open or torn."
+										}
+									},
+									"Distributed by",
+									"Perrigo®",
+									"Allegan, MI 49010",
+									": 85251 00 J3"
+								],
+								"list": [
+									{
+										"item": {
+											"caption": "•",
+											"text": "The ingredient in MAXIMUM STRENGTH Ranitidine Tablets, 150 mg, ranitidine, has been prescribed by doctors for years to treat millions of patients safely and effectively. The active ingredient in MAXIMUM STRENGTH Ranitidine Tablets, 150 mg has been taken safely with many frequently prescribed medications."
+										},
+										"listType": "unordered"
+									},
+									{
+										"item": {
+											"caption": "•",
+											"text": "MAXIMUM STRENGTH Ranitidine Tablets, 150 mg are sodium and sugar free."
+										},
+										"listType": "unordered"
+									},
+									{
+										"item": [
+											{
+												"caption": "•",
+												"text": "MAXIMUM STRENGTH Ranitidine Tablets, 150 mg relieve and prevent heartburn associated with acid indigestion and sour stomach."
+											},
+											{
+												"caption": "•",
+												"text": "Certain foods or beverages, and even lying down to sleep can cause heartburn associated with acid indigestion and sour stomach. It is normal for the stomach to produce acid, especially after consuming food or beverages. However, acid in the wrong place, such as the esophagus, or too much acid, can cause burning pain and discomfort."
+											}
+										],
+										"listType": "unordered"
+									},
+									{
+										"item": [
+											{
+												"caption": "•",
+												"content": {
+													"styleCode": "bold",
+													"text": "relieve"
+												},
+												"text": "To \n symptoms, swallow 1 tablet with a glass of water."
+											},
+											{
+												"caption": "•",
+												"content": [
+													{
+														"styleCode": "bold",
+														"text": "prevent"
+													},
+													{
+														"styleCode": "bold",
+														"text": "30 to 60 minutes before"
+													}
+												],
+												"text": "To \n symptoms, swallow 1 tablet with a glass of water \n eating food or drinking beverages that cause heartburn."
+											},
+											{
+												"caption": "•",
+												"text": "This medicine can be used up to twice daily (do not take more than 2 tablets in 24 hours)."
+											},
+											{
+												"caption": "•",
+												"text": "MAXIMUM STRENGTH Ranitidine Tablets, 150 mg should not be given to children under 12 years old unless directed by a doctor."
+											},
+											{
+												"caption": "•",
+												"content": {
+													"styleCode": "bold",
+													"text": "Allergy alert"
+												},
+												"text": ": Do not use if you are allergic to ranitidine or other acid reducers"
+											}
+										],
+										"listType": "unordered"
+									},
+									{
+										"item": {
+											"caption": "•",
+											"text": "MAXIMUM STRENGTH Ranitidine Tablets, 150 mg reduce the production of stomach acid. This is what makes MAXIMUM STRENGTH Ranitidine Tablets, 150 mg different from antacids, which neutralize the acid already in your stomach. Antacids do not reduce the production of acid."
+										},
+										"listType": "unordered"
+									},
+									{
+										"item": [
+											{
+												"caption": "•",
+												"text": "Do not lie flat or bend over soon after eating"
+											},
+											{
+												"caption": "•",
+												"text": "Do not eat late at night, or just before bedtime"
+											},
+											{
+												"caption": "•",
+												"text": "Certain foods or drinks are more likely to cause heartburn, such as rich, spicy, fatty, and fried foods, chocolate, caffeine, alcohol, even some fruits and vegetables."
+											},
+											{
+												"caption": "•",
+												"text": "Eat slowly and do not eat big meals"
+											},
+											{
+												"caption": "•",
+												"text": "If you are overweight, lose weight"
+											},
+											{
+												"caption": "•",
+												"text": "If you smoke, quit smoking"
+											},
+											{
+												"caption": "•",
+												"text": "Raise the head of your bed"
+											},
+											{
+												"caption": "•",
+												"text": "Wear loose fitting clothing around your stomach"
+											}
+										],
+										"listType": "unordered"
+									},
+									{
+										"item": [
+											{
+												"caption": "•",
+												"content": {
+													"styleCode": "bold",
+													"text": "Do not use"
+												}
+											},
+											{
+												"caption": "•",
+												"text": "if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor."
+											},
+											{
+												"caption": "•",
+												"text": "with other acid reducers"
+											},
+											{
+												"caption": "•",
+												"text": "if you have kidney disease, except under the advice and supervision of a doctor"
+											},
+											{
+												"caption": "•",
+												"content": {
+													"styleCode": "bold",
+													"text": "Ask a doctor before use if you have"
+												}
+											},
+											{
+												"caption": "•",
+												"text": "had heartburn over 3 months. This may be a sign of a more serious condition."
+											},
+											{
+												"caption": "•",
+												"content": {
+													"styleCode": "bold",
+													"text": "lightheadedness, sweating or dizziness"
+												},
+												"text": "heartburn with"
+											},
+											{
+												"caption": "•",
+												"text": "chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness"
+											},
+											{
+												"caption": "•",
+												"content": {
+													"styleCode": "bold",
+													"text": "chest pain"
+												},
+												"text": "frequent"
+											},
+											{
+												"caption": "•",
+												"text": "frequent wheezing, particularly with heartburn"
+											},
+											{
+												"caption": "•",
+												"text": "unexplained weight loss"
+											},
+											{
+												"caption": "•",
+												"text": "nausea or vomiting"
+											},
+											{
+												"caption": "•",
+												"text": "stomach pain"
+											},
+											{
+												"caption": "•",
+												"content": {
+													"styleCode": "bold",
+													"text": "Stop use and ask a doctor if"
+												}
+											},
+											{
+												"caption": "•",
+												"text": "your heartburn continues or worsens"
+											},
+											{
+												"caption": "•",
+												"text": "you need to take this product for more than 14 days"
+											},
+											{
+												"caption": "•",
+												"content": {
+													"styleCode": "bold",
+													"text": "If pregnant or breast-feeding,"
+												},
+												"text": "ask a healthcare professional before use."
+											},
+											{
+												"caption": "•",
+												"content": {
+													"styleCode": "bold",
+													"text": "Keep out of reach of children."
+												},
+												"text": "In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+											}
+										],
+										"listType": "unordered"
+									}
+								],
+								"renderMultiMedia": {
+									"ID": "id302",
+									"referencedObject": "ID_22772f54-105c-4600-9567-d196a527c487"
+								}
+							},
+							"effectiveTime": {
+								"value": "20180803"
+							},
+							"component": {
+								"observationMedia": {
+									"text": "Image 1",
+									"value": {
+										"reference": {
+											"value": "image-01.jpg"
+										},
+										"mediaType": "image/jpeg",
+										"xsi:type": "ED"
+									},
+									"ID": "ID_22772f54-105c-4600-9567-d196a527c487"
+								}
+							},
+							"ID": "i4i_section_id_b127f032-f64e-431a-8c03-6d6f821e0f14"
+						}
+					},
+					{
+						"section": {
+							"id": {
+								"root": "082307c6-febc-497e-8e0b-ef519f454419"
+							},
+							"code": {
+								"code": "51945-4",
+								"codeSystem": "2.16.840.1.113883.6.1",
+								"displayName": "PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"
+							},
+							"title": "Package/Label Principal Display Panel",
+							"text": {
+								"paragraph": [
+									"Maximum Strength",
+									"Acid Control",
+									"Ranitidine Tablets, 150 mg | Acid Reducer",
+									"COMPARE TO ZANTAC 150® active ingredient",
+									"PREVENTS & RELIEVES HEARTBURN associated with acid indigestion and sour stomach",
+									"100% Money Back Guarantee",
+									"24 TABLETS (24 Doses)",
+									"Actual Size"
+								],
+								"renderMultiMedia": [
+									{
+										"ID": "id-533661477",
+										"referencedObject": "ID_5519fbe7-8f2d-4ead-a130-f817337a9a2b"
+									},
+									{
+										"ID": "id-1056781774",
+										"referencedObject": "ab00e9cc-8a98-4ea5-bf69-e0b99e114ab9"
+									}
+								]
+							},
+							"effectiveTime": {
+								"value": "20180803"
+							},
+							"component": [
+								{
+									"observationMedia": {
+										"text": "852E9-acid-control-image1.jpg",
+										"value": {
+											"reference": {
+												"value": "852E9-acid-control-image1.jpg"
+											},
+											"mediaType": "image/jpeg",
+											"xsi:type": "ED"
+										},
+										"ID": "ID_5519fbe7-8f2d-4ead-a130-f817337a9a2b"
+									}
+								},
+								{
+									"observationMedia": {
+										"text": "852E9-acid-control-image2.jpg",
+										"value": {
+											"reference": {
+												"value": "852E9-acid-control-image2.jpg"
+											},
+											"mediaType": "image/jpeg",
+											"xsi:type": "ED"
+										},
+										"ID": "ab00e9cc-8a98-4ea5-bf69-e0b99e114ab9"
+									}
+								}
+							],
+							"ID": "i4i_Principal_display_panel_id_9868ed57-e210-4257-b8e3-a0f3a5d3dd61"
+						}
+					}
+				]
+			}
+		},
+		"xmlns": "urn:hl7-org:v3",
+		"xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+		"xsi:schemaLocation": "urn:hl7-org:v3 http://www.accessdata.fda.gov/spl/schema/spl.xsd"
+	}
+}
