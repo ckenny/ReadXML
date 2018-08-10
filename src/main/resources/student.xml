@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<student id="54321" age="17" >
+    <result>
+        <subject name="English" marks="72" />
+        <subject name="Hindi" marks="67" />
+        <subject name="Sociology" marks="79" />
+        <subject name="Science" marks="88" />
+        <subject name="Mathematics" marks="85" />
+    </result>
+</student>
