@@ -4,66 +4,110 @@ package com.study.med.pojo;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import com.fasterxml.jackson.annotation.JsonAnyGetter;
-import com.fasterxml.jackson.annotation.JsonAnySetter;
-import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.fasterxml.jackson.annotation.JsonInclude;
-import com.fasterxml.jackson.annotation.JsonProperty;
-import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
-@JsonInclude(JsonInclude.Include.NON_NULL)
-@JsonPropertyOrder({
-    "manufacturedProduct",
-    "subjectOf",
-    "consumedIn"
-})
+
+
+
+
 public class ManufacturedProduct {
 
-    @JsonProperty("manufacturedProduct")
-    private ManufacturedProduct_ manufacturedProduct;
-    @JsonProperty("subjectOf")
+    private ManufacturedProduct manufacturedProduct;
     private List<SubjectOf> subjectOf = null;
-    @JsonProperty("consumedIn")
     private ConsumedIn consumedIn;
-    @JsonIgnore
+
+    private Code code;
+
+    private String name;
+    private FormCode formCode;
+    private AsEntityWithGeneric asEntityWithGeneric;
+    private List<Ingredient> ingredient = null;
+    private AsContent asContent;
+
+
     private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
-    @JsonProperty("manufacturedProduct")
-    public ManufacturedProduct_ getManufacturedProduct() {
+    public ManufacturedProduct getManufacturedProduct() {
         return manufacturedProduct;
     }
 
-    @JsonProperty("manufacturedProduct")
-    public void setManufacturedProduct(ManufacturedProduct_ manufacturedProduct) {
+    public void setManufacturedProduct(ManufacturedProduct manufacturedProduct) {
         this.manufacturedProduct = manufacturedProduct;
     }
 
-    @JsonProperty("subjectOf")
     public List<SubjectOf> getSubjectOf() {
         return subjectOf;
     }
 
-    @JsonProperty("subjectOf")
     public void setSubjectOf(List<SubjectOf> subjectOf) {
         this.subjectOf = subjectOf;
     }
 
-    @JsonProperty("consumedIn")
     public ConsumedIn getConsumedIn() {
         return consumedIn;
     }
 
-    @JsonProperty("consumedIn")
     public void setConsumedIn(ConsumedIn consumedIn) {
         this.consumedIn = consumedIn;
     }
 
-    @JsonAnyGetter
+
+    public Code getCode() {
+        return code;
+    }
+
+
+    public void setCode(Code code) {
+        this.code = code;
+    }
+
+
+    public String getName() {
+        return name;
+    }
+
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public FormCode getFormCode() {
+        return formCode;
+    }
+
+    public void setFormCode(FormCode formCode) {
+        this.formCode = formCode;
+    }
+
+    public AsEntityWithGeneric getAsEntityWithGeneric() {
+        return asEntityWithGeneric;
+    }
+
+    public void setAsEntityWithGeneric(AsEntityWithGeneric asEntityWithGeneric) {
+        this.asEntityWithGeneric = asEntityWithGeneric;
+    }
+
+    public List<Ingredient> getIngredient() {
+        return ingredient;
+    }
+
+    public void setIngredient(List<Ingredient> ingredient) {
+        this.ingredient = ingredient;
+    }
+
+    public AsContent getAsContent() {
+        return asContent;
+    }
+
+    public void setAsContent(AsContent asContent) {
+        this.asContent = asContent;
+    }
+
+
     public Map<String, Object> getAdditionalProperties() {
         return this.additionalProperties;
     }
 
-    @JsonAnySetter
+
     public void setAdditionalProperty(String name, Object value) {
         this.additionalProperties.put(name, value);
     }
