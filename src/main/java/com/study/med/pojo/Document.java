@@ -1,19 +1,11 @@
 
 package com.study.med.pojo;
 
+import javax.xml.bind.annotation.XmlRootElement;
 import java.util.HashMap;
 import java.util.Map;
 
-
-
-
-
-
-
-import javax.xml.bind.annotation.XmlRootElement;
-
-
-@XmlRootElement(name="document")
+@XmlRootElement(name="document", namespace = "urn:hl7-org:v3")
 public class Document {
 
 
