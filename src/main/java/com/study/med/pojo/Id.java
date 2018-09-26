@@ -1,12 +1,6 @@
 
 package com.study.med.pojo;
 
-import java.util.HashMap;
-import java.util.Map;
-
-
-
-
 public class Id {
 
     
@@ -14,9 +8,7 @@ public class Id {
     
     private String root;
 
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
-    
     public String getExtension() {
         return extension;
     }
@@ -37,12 +29,20 @@ public class Id {
     }
 
 
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("{");
+        if(extension != null) {
+            sb.append("extension:'").append(extension).append('\'');
+        }
+        if(root != null) {
+            if(sb.length()>1) {
+                sb.append(',');
+            }
+            sb.append(" root:'").append(root).append('\'');
+        }
+        sb.append('}');
+        return sb.toString();
     }
 
-
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
-    }
 }

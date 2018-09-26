@@ -12,7 +12,7 @@ import java.util.Map;
 public class ContainerPackagedProduct {
 
 
-    private String code;
+//    private String code;
     
     private FormCode formCode;
     
@@ -21,6 +21,7 @@ public class ContainerPackagedProduct {
     private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
 
+/*
     public String getCode() {
         return code;
     }
@@ -29,6 +30,7 @@ public class ContainerPackagedProduct {
     public void setCode(String code) {
         this.code = code;
     }
+*/
 
     
     public FormCode getFormCode() {

@@ -1,10 +1,6 @@
 
 package com.study.med.pojo;
 
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
 public class Section {
 
     
@@ -22,11 +18,9 @@ public class Section {
     
     private String iD;
 
-    private List<Component> component = null;
+    private Object component = null;
 
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
-    
     public Id getId() {
         return id;
     }
@@ -97,23 +91,63 @@ public class Section {
     }
 
 
-    public List<Component> getComponent() {
-        return component;
+    public Object getComponent() {
+        return Text.getObjectDetails(component);
     }
 
-
-    public void setComponent(List<Component> component) {
+    public void setComponent(Object component) {
         this.component = component;
     }
 
-
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("{");
+        if(id != null) {
+            sb.append("id:").append(id);
+        }
+        if(code != null) {
+            if(sb.length()>1) {
+                sb.append(',');
+            }
+            sb.append(" code:").append(code);
+        }
+        if(effectiveTime != null) {
+            if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
+                sb.append(',');
+            }
+            sb.append(" effectiveTime:").append(effectiveTime);
+        }
+        if(subject != null) {
+            if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
+                sb.append(',');
+            }
+            sb.append(" subject:").append(subject);
+        }
+        if(title != null) {
+            if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
+                sb.append(',');
+            }
+            sb.append(" title:'").append(title).append('\'');
+        }
+        if(text != null) {
+            if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
+                sb.append(',');
+            }
+            sb.append(" text:").append(text);
+        }
+        if(iD != null) {
+            if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
+                sb.append(',');
+            }
+            sb.append(" iD:'").append(iD).append('\'');
+        }
+        if(component != null) {
+            if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
+                sb.append(',');
+            }
+            sb.append(" component:").append(Text.getObjectDetails(component));
+        }
+        sb.append('}');
+        return sb.toString();
     }
-
-
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
-    }
-
 }

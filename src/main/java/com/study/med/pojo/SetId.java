@@ -1,17 +1,9 @@
 
 package com.study.med.pojo;
 
-import java.util.HashMap;
-import java.util.Map;
-
-
-
-
 public class SetId {
 
     private String root;
-
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
     public String getRoot() {
         return root;
@@ -21,14 +13,10 @@ public class SetId {
         this.root = root;
     }
 
-
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
+    @Override
+    public String toString() {
+        return "{" +
+                "root:'" + root + '\'' +
+                '}';
     }
-
-
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
-    }
-
 }

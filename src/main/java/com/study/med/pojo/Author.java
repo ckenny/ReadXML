@@ -1,21 +1,11 @@
 
 package com.study.med.pojo;
 
-import java.util.HashMap;
-import java.util.Map;
-
-
-
-
-
-
-
 public class Author {
 
     private String time;
     private AssignedEntity assignedEntity;
     private TerritorialAuthority territorialAuthority;
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
     public TerritorialAuthority getTerritorialAuthority() {
         return territorialAuthority;
@@ -41,14 +31,13 @@ public class Author {
         this.assignedEntity = assignedEntity;
     }
 
-
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("{");
+        if(time != null) sb.append("time:'").append(time).append('\'');
+        if(assignedEntity != null) sb.append(", assignedEntity:").append(assignedEntity);
+        if(territorialAuthority != null) sb.append(", territorialAuthority:").append(territorialAuthority);
+        sb.append('}');
+        return sb.toString();
     }
-
-
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
-    }
-
 }

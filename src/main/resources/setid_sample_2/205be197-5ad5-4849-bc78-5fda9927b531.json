@@ -1,0 +1,4057 @@
+{
+  "document": {
+    "title": {
+      "string": "Oxycodone and Acetaminophen Tablets, USP CII"
+    },
+    "author": {
+      "assignedEntity": {
+        "representedOrganization": {
+          "name": {
+            "string": "Mayne Pharma Inc."
+          },
+          "assignedEntity": {
+            "assignedOrganization": {
+              "assignedEntity": [
+                {
+                  "assignedOrganization": {
+                    "name": {
+                      "string": "Mayne Pharma Inc."
+                    }
+                  }
+                },
+                {
+                  "assignedOrganization": {
+                    "name": {
+                      "string": "Johnson Matthey Inc."
+                    }
+                  }
+                },
+                {
+                  "assignedOrganization": {
+                    "name": {
+                      "string": "Noramco, Inc."
+                    }
+                  }
+                },
+                {
+                  "assignedOrganization": {
+                    "name": {
+                      "string": "Noramco, Inc."
+                    }
+                  }
+                },
+                {
+                  "assignedOrganization": {
+                    "name": {
+                      "string": "Granules India Limited"
+                    }
+                  }
+                },
+                {
+                  "assignedOrganization": {
+                    "name": {
+                      "string": "Legacy Pharmaceutical Packaging"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "component": {
+      "structuredBody": {
+        "component": [
+          {
+            "section": {
+              "subject": [
+                {
+                  "manufacturedProduct": {
+                    "manufacturedProduct": {
+                      "name": {
+                        "string": "Oxycodone and Acetaminophen"
+                      },
+                      "asEntityWithGeneric": {
+                        "genericMedicine": {
+                          "name": {
+                            "string": "Oxycodone Hydrochloride and Acetaminophen"
+                          }
+                        }
+                      },
+                      "ingredient": [
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Oxycodone Hydrochloride"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Oxycodone"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Acetaminophen"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Acetaminophen"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "microcrystalline cellulose"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "croscarmellose sodium"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "starch, corn"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "silicon dioxide"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "stearic acid"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "crospovidone (15 mpa.s at 5%)"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "povidone, unspecified"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "subjectOf": {
+                      "characteristic": {
+                        "value": {
+                          "string": "103"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "manufacturedProduct": {
+                    "manufacturedProduct": {
+                      "name": {
+                        "string": "Oxycodone and Acetaminophen"
+                      },
+                      "asEntityWithGeneric": {
+                        "genericMedicine": {
+                          "name": {
+                            "string": "Oxycodone Hydrochloride and Acetaminophen"
+                          }
+                        }
+                      },
+                      "ingredient": [
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Oxycodone Hydrochloride"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Oxycodone"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Acetaminophen"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Acetaminophen"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "microcrystalline cellulose"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "croscarmellose sodium"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "starch, corn"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "silicon dioxide"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "stearic acid"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "crospovidone (15 mpa.s at 5%)"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "povidone, unspecified"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "subjectOf": {
+                      "characteristic": {
+                        "value": {
+                          "string": "104"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "manufacturedProduct": {
+                    "manufacturedProduct": {
+                      "name": {
+                        "string": "Oxycodone and Acetaminophen"
+                      },
+                      "asEntityWithGeneric": {
+                        "genericMedicine": {
+                          "name": {
+                            "string": "Oxycodone Hydrochloride and Acetaminophen"
+                          }
+                        }
+                      },
+                      "ingredient": [
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Oxycodone Hydrochloride"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Oxycodone"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Acetaminophen"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Acetaminophen"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "microcrystalline cellulose"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "croscarmellose sodium"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "starch, corn"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "silicon dioxide"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "stearic acid"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "crospovidone (15 mpa.s at 5%)"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "povidone, unspecified"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "subjectOf": [
+                      {
+                        "characteristic": {
+                          "value": {
+                            "originalText": {
+                              "string": "caplet shaped"
+                            }
+                          }
+                        }
+                      },
+                      {},
+                      {
+                        "characteristic": {
+                          "value": {
+                            "string": "105"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "manufacturedProduct": {
+                    "manufacturedProduct": {
+                      "name": {
+                        "string": "Oxycodone and Acetaminophen"
+                      },
+                      "asEntityWithGeneric": {
+                        "genericMedicine": {
+                          "name": {
+                            "string": "Oxycodone Hydrochloride and Acetaminophen"
+                          }
+                        }
+                      },
+                      "ingredient": [
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Oxycodone Hydrochloride"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Oxycodone"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Acetaminophen"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Acetaminophen"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "microcrystalline cellulose"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "croscarmellose sodium"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "starch, corn"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "silicon dioxide"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "stearic acid"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "crospovidone (15 mpa.s at 5%)"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "povidone, unspecified"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "subjectOf": {
+                      "characteristic": {
+                        "value": {
+                          "string": "106"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "manufacturedProduct": {
+                    "manufacturedProduct": {
+                      "name": {
+                        "string": "Oxycodone and Acetaminophen"
+                      },
+                      "asEntityWithGeneric": {
+                        "genericMedicine": {
+                          "name": {
+                            "string": "Oxycodone Hydrochloride and Acetaminophen"
+                          }
+                        }
+                      },
+                      "ingredient": [
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Oxycodone Hydrochloride"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Oxycodone"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Acetaminophen"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Acetaminophen"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "microcrystalline cellulose"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "croscarmellose sodium"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "starch, corn"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "silicon dioxide"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "stearic acid"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "crospovidone (15 mpa.s at 5%)"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "povidone, unspecified"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "subjectOf": {
+                      "characteristic": {
+                        "value": {
+                          "string": "104"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "manufacturedProduct": {
+                    "manufacturedProduct": {
+                      "name": {
+                        "string": "Oxycodone and Acetaminophen"
+                      },
+                      "asEntityWithGeneric": {
+                        "genericMedicine": {
+                          "name": {
+                            "string": "Oxycodone Hydrochloride and Acetaminophen"
+                          }
+                        }
+                      },
+                      "ingredient": [
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Oxycodone Hydrochloride"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Oxycodone"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Acetaminophen"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Acetaminophen"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "microcrystalline cellulose"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "croscarmellose sodium"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "starch, corn"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "silicon dioxide"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "stearic acid"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "crospovidone (15 mpa.s at 5%)"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "povidone, unspecified"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "subjectOf": {
+                      "characteristic": {
+                        "value": {
+                          "string": "105"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "manufacturedProduct": {
+                    "manufacturedProduct": {
+                      "name": {
+                        "string": "Oxycodone and Acetaminophen"
+                      },
+                      "asEntityWithGeneric": {
+                        "genericMedicine": {
+                          "name": {
+                            "string": "Oxycodone Hydrochloride and Acetaminophen"
+                          }
+                        }
+                      },
+                      "ingredient": [
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Oxycodone Hydrochloride"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Oxycodone"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "Acetaminophen"
+                            },
+                            "activeMoiety": {
+                              "activeMoiety": {
+                                "name": {
+                                  "string": "Acetaminophen"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "microcrystalline cellulose"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "croscarmellose sodium"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "starch, corn"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "silicon dioxide"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "stearic acid"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "crospovidone (15 mpa.s at 5%)"
+                            }
+                          }
+                        },
+                        {
+                          "ingredientSubstance": {
+                            "name": {
+                              "string": "povidone, unspecified"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    "subjectOf": {
+                      "characteristic": {
+                        "value": {
+                          "string": "106"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "content": {
+                  "string": "WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME, CYTOCHROME P450 3A4 INTERACTION; HEPATOTOXICITY, and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS"
+                }
+              },
+              "component": [
+                {
+                  "section": {
+                    "title": {
+                      "string": "Addiction, Abuse, and Misuse"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "content": {
+                          "string": "].",
+                          "linkHtml": {
+                            "string": "WARNINGS"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Life-Threatening Respiratory Depression"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "content": {
+                          "string": "].",
+                          "linkHtml": {
+                            "string": "WARNINGS"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Accidental Ingestion"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "content": {
+                          "string": "].",
+                          "linkHtml": {
+                            "string": "WARNINGS"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Neonatal Opioid Withdrawal Syndrome"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "content": {
+                          "string": "].",
+                          "linkHtml": {
+                            "string": "WARNINGS"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Cytochrome P450 3A4 Interaction"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "content": {
+                          "string": "].",
+                          "linkHtml": [
+                            {
+                              "string": "CLINICAL PHARMACOLOGY"
+                            },
+                            {
+                              "string": "WARNINGS"
+                            },
+                            {
+                              "string": "PRECAUTIONS; Drug Interactions"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Hepatotoxicity"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "content": {
+                          "string": "Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver transplant and death. Most of the cases of liver injury are associated with the use of acetaminophen at doses that exceed 4000 mg per day, and often involve more than one acetaminophen-containing product."
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants "
+                    },
+                    "text": {
+                      "paragraph": {
+                        "content": [
+                          {
+                            "string": "Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory  depression, coma, and death"
+                          },
+                          {
+                            "string": " ["
+                          },
+                          {
+                            "string": "see"
+                          },
+                          {
+                            "linkHtml": [
+                              {
+                                "string": " Warnings"
+                              },
+                              {
+                                "string": "Precautions:Drug Interactions"
+                              }
+                            ],
+                            "string": "]"
+                          },
+                          {
+                            "string": "."
+                          }
+                        ]
+                      },
+                      "list": {
+                        "item": [
+                          {
+                            "content": {
+                              "string": "Reserve concomitant prescribing of Oxycodone Hydrochloride and Acetaminophen Tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate."
+                            }
+                          },
+                          {
+                            "content": {
+                              "string": "Limit dosages and durations to the minimum required."
+                            }
+                          },
+                          {
+                            "content": {
+                              "string": "Follow patients for signs and symptoms of respiratory depression and sedation."
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "DESCRIPTION"
+              },
+              "text": {
+                "paragraph": [
+                  {
+                    "content": {
+                      "string": "Oxycodone Hydrochloride and Acetaminophen is available in tablets for oral administration."
+                    }
+                  },
+                  {
+                    "string": "Each tablet for oral administration contains:"
+                  }
+                ],
+                "table": [
+                  {
+                    "tbody": {
+                      "tr": {
+                        "td": [
+                          {
+                            "string": "Oxycodone hydrochloride USP"
+                          },
+                          {
+                            "string": "5 mg",
+                            "footnote": {
+                              "string": "(5 mg Oxycodone Hydrochloride is equivalent to 4.4815 mg Oxycodone)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "tbody": {
+                      "tr": {
+                        "td": [
+                          {
+                            "string": "Acetaminophen USP"
+                          },
+                          {
+                            "string": "325 mg"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "component": [
+                {
+                  "section": {
+                    "title": {
+                      "string": "Inactive Ingredients"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "The tablets contain: colloidal silicon dioxide, croscarmellose sodium, crospovidone, microcrystalline cellulose, povidone, pregelatinized starch, and stearic acid."
+                        },
+                        {
+                          "string": " ∙ HCl and the molecular weight is 381.82. It is derived from the opium alkaloid, thebaine, and may be represented by the following structural formula:",
+                          "sub": [
+                            {
+                              "string": "18"
+                            },
+                            {
+                              "string": "21"
+                            },
+                            {
+                              "string": "4"
+                            }
+                          ]
+                        },
+                        {
+                          "string": " and the molecular weight is 151.17. It may be represented by the following structural formula:",
+                          "sub": [
+                            {
+                              "string": "8"
+                            },
+                            {
+                              "string": "9"
+                            },
+                            {
+                              "string": "2"
+                            }
+                          ]
+                        }
+                      ],
+                      "renderMultiMedia": [
+                        {
+                          "caption": {
+                            "string": " ∙HCl MW 351.82",
+                            "sub": [
+                              {
+                                "string": "18"
+                              },
+                              {
+                                "string": "21"
+                              },
+                              {
+                                "string": "4"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "caption": {
+                            "string": " MW 151.17",
+                            "sub": [
+                              {
+                                "string": "8"
+                              },
+                              {
+                                "string": "9"
+                              },
+                              {
+                                "string": "2"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "observationMedia": {
+                    "text": {
+                      "string": "Chemical Structure"
+                    }
+                  }
+                },
+                {
+                  "observationMedia": {
+                    "text": {
+                      "string": "Chemical Structure"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "CLINICAL PHARMACOLOGY"
+              },
+              "component": [
+                {
+                  "section": {
+                    "title": {
+                      "string": "Mechanism of Action"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "Oxycodone is a full opioid agonist with relative selectivity for the mu-opioid receptor, although it can interact with other opioid receptors at higher doses. The principal therapeutic action of oxycodone is analgesia. Like all full opioid agonists, there is no ceiling effect for analgesia with oxycodone."
+                        },
+                        {
+                          "string": "Clinically, dosage is titrated to provide adequate analgesia and may be limited by adverse reactions, including respiratory and CNS depression."
+                        },
+                        {
+                          "string": "The precise mechanism of the analgesic action is unknown. However, specific CNS opioid receptors for endogenous compounds with opioid-like activity have been identified throughout the brain and spinal cord and are thought to play a role in the analgesic effects of this drug."
+                        },
+                        {
+                          "string": "The precise mechanism of the analgesic properties of acetaminophen is not established but is thought to involve central actions."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Pharmacodynamics"
+                    },
+                    "component": [
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Effects on the Central Nervous System"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "Oxycodone produces respiratory depression by direct action on brain stem respiratory centers. The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation."
+                              },
+                              {
+                                "string": "Oxycodone causes miosis, even in total darkness. Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings). Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations."
+                              },
+                              {
+                                "string": "Therapeutic doses of acetaminophen have negligible effects on the cardiovascular or respiratory systems; however, toxic doses may cause circulatory failure and rapid, shallow breathing."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Effects on the Gastrointestinal Tract and Other Smooth Muscle"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum. Digestion of food in the small intestine is delayed and propulsive contractions are decreased. Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation. Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Effects on the Cardiovascular System"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "Oxycodone produces peripheral vasodilation which may result in orthostatic hypotension or syncope. Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Effects on the Endocrine System"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": ". They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.",
+                                "content": {
+                                  "string": "]",
+                                  "linkHtml": {
+                                    "string": "Adverse Reactions"
+                                  }
+                                }
+                              },
+                              {
+                                "string": "].",
+                                "linkHtml": {
+                                  "string": "ADVERSE REACTIONS"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Effects on the Immune System"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "Opioids have been shown to have a variety of effects on components of the immune system. The clinical significance of these findings is unknown. Overall, the effects of opioids appear to be modestly immunosuppressive."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Concentration–Efficacy Relationships"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": ".",
+                              "content": {
+                                "string": "]",
+                                "linkHtml": {
+                                  "string": "Dosage and Administration"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Concentration–Adverse Reaction Relationships"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": ".",
+                              "content": {
+                                "string": "]",
+                                "linkHtml": {
+                                  "string": "Dosage and Administration"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Pharmacokinetics"
+                    },
+                    "component": [
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Absorption and Distribution"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": ". The volume of distribution after intravenous administration is 211.9 ±186.6 L.",
+                                "content": {
+                                  "string": "in vitro"
+                                }
+                              },
+                              {
+                                "string": "Absorption of acetaminophen is rapid and almost complete from the GI tract after oral administration. With overdosage, absorption is complete in 4 hours. Acetaminophen is relatively uniformly distributed throughout most body fluids. Binding of the drug to plasma proteins is variable; only 20% to 50% may be bound at the concentrations encountered during acute intoxication."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Metabolism and Elimination"
+                          },
+                          "component": [
+                            {
+                              "section": {
+                                "title": {
+                                  "string": "Oxycodone"
+                                },
+                                "text": {
+                                  "paragraph": {
+                                    "string": "].",
+                                    "linkHtml": {
+                                      "string": "PRECAUTIONS; Drug Interactions"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            {
+                              "section": {
+                                "title": {
+                                  "string": "Acetaminophen"
+                                },
+                                "text": {
+                                  "paragraph": {
+                                    "string": "] for toxicity information.",
+                                    "linkHtml": {
+                                      "string": "OVERDOSAGE"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "INDICATIONS AND USAGE"
+              },
+              "text": {
+                "paragraph": {
+                  "string": "Oxycodone Hydrochloride and Acetaminophen Tablets is indicated for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate."
+                }
+              },
+              "component": {
+                "section": {
+                  "title": {
+                    "string": "Limitations of Use"
+                  },
+                  "text": {
+                    "paragraph": {
+                      "string": "], reserve Oxycodone Hydrochloride and Acetaminophen Tablets for use in patients for whom alternative treatment options [e.g., non-opioid analgesics]",
+                      "linkHtml": {
+                        "string": "WARNINGS"
+                      }
+                    },
+                    "list": {
+                      "item": [
+                        {
+                          "string": "Have not been tolerated, or are not expected to be tolerated,"
+                        },
+                        {
+                          "string": "Have not provided adequate analgesia, or are not expected to provide adequate analgesia"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "CONTRAINDICATIONS"
+              },
+              "text": {
+                "paragraph": {
+                  "string": "Oxycodone Hydrochloride and Acetaminophen Tablets is contraindicated in patients with:"
+                },
+                "list": {
+                  "item": [
+                    {
+                      "string": "]",
+                      "linkHtml": {
+                        "string": "WARNINGS"
+                      }
+                    },
+                    {
+                      "string": "]",
+                      "linkHtml": {
+                        "string": "WARNINGS"
+                      }
+                    },
+                    {
+                      "string": "]",
+                      "linkHtml": {
+                        "string": "WARNINGS"
+                      }
+                    },
+                    {
+                      "string": "]",
+                      "linkHtml": [
+                        {
+                          "string": "WARNINGS"
+                        },
+                        {
+                          "string": "ADVERSE REACTIONS"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "WARNINGS"
+              },
+              "component": [
+                {
+                  "section": {
+                    "title": {
+                      "string": "Addiction, Abuse, and Misuse"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "].",
+                          "linkHtml": {
+                            "string": "DRUG ABUSE AND DEPENDENCE"
+                          }
+                        },
+                        {
+                          "string": "Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Oxycodone Hydrochloride and Acetaminophen Tablets. Addiction can occur at recommended dosages and if the drug is misused or abused."
+                        },
+                        {
+                          "string": "Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing Oxycodone Hydrochloride and Acetaminophen Tablets, and monitor all patients receiving Oxycodone Hydrochloride and Acetaminophen Tablets for the development of these behaviors and conditions. Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression). The potential for these risks should not, however, prevent the proper management of pain in any given patient. Patients at increased risk may be prescribed opioids such as Oxycodone Hydrochloride and Acetaminophen Tablets, but use in such patients necessitates intensive counseling about the risks and proper use of Oxycodone Hydrochloride and Acetaminophen Tablets along with intensive monitoring for signs of addiction, abuse, and misuse."
+                        },
+                        {
+                          "string": "]. Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.",
+                          "linkHtml": {
+                            "string": "PRECAUTIONS; Information for Patients/Caregivers"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Life-Threatening Respiratory Depression"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": ") retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.",
+                          "linkHtml": {
+                            "string": "OVERDOSAGE"
+                          },
+                          "sub": {
+                            "string": "2"
+                          }
+                        },
+                        {
+                          "string": "While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Oxycodone Hydrochloride and Acetaminophen Tablets, the risk is greatest during the initiation of therapy or following a dosage increase. Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with and following dosage increases of Oxycodone  Hydrochloride and Acetaminophen Tablets."
+                        },
+                        {
+                          "string": "]. Overestimating the Oxycodone Hydrochloride and Acetaminophen Tablets dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.",
+                          "linkHtml": {
+                            "string": "DOSAGE AND ADMINISTRATION"
+                          }
+                        },
+                        {
+                          "string": "Accidental ingestion of Oxycodone Hydrochloride and Acetaminophen Tablets, especially by children, can result in respiratory depression and death due to an overdose of Oxycodone Hydrochloride and Acetaminophen Tablets."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Neonatal Opioid Withdrawal Syndrome"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "].",
+                        "linkHtml": {
+                          "string": "PRECAUTIONS; Information for Patients/Caregivers, Pregnancy"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Risks of Concomitant Use or Discontinuation of Cytochrome P450 3A4 Inhibitors and Inducers"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "].",
+                          "content": [
+                            {
+                              "string": "]",
+                              "linkHtml": {
+                                "string": "Warnings"
+                              }
+                            },
+                            {
+                              "string": "."
+                            }
+                          ],
+                          "linkHtml": {
+                            "string": "PRECAUTIONS; Drug Interactions"
+                          }
+                        },
+                        {
+                          "string": "].",
+                          "linkHtml": {
+                            "string": "PRECAUTIONS; Drug Interactions"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "Profound sedation, respiratory depression, coma, and death may result from the concomitant use of oxycodone hydrochloride and acetaminophen tablets with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol). Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate."
+                        },
+                        {
+                          "string": ".",
+                          "content": [
+                            {
+                              "string": "["
+                            },
+                            {
+                              "string": "see ",
+                              "linkHtml": {
+                                "string": "PRECAUTIONS; Drug Interactions"
+                              }
+                            },
+                            {
+                              "string": "]"
+                            }
+                          ]
+                        },
+                        {
+                          "string": "If the decision is made to prescribe a benzodiazepine or other CNS depressant concomitantly with an opioid analgesic, prescribe the lowest effective dosages and minimum durations of concomitant use. In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response. If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response. Follow patients closely for signs and symptoms of respiratory depression and sedation."
+                        },
+                        {
+                          "string": "Advise both patients and caregivers about the risks of respiratory depression and sedation when Oxycodone Hydrochloride and Acetaminophen Tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).  Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined. Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "The use of Oxycodone Hydrochloride and Acetaminophen Tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated."
+                      }
+                    },
+                    "component": [
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Patients with Chronic Pulmonary Disease"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "].",
+                              "linkHtml": {
+                                "string": "WARNINGS; Life Threatening Respiratory Depression"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Elderly, Cachetic, or Debilitated Patients"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "].",
+                                "linkHtml": {
+                                  "string": "WARNINGS; Life Threatening Respiratory Depression"
+                                }
+                              },
+                              {
+                                "string": "]. Alternatively, consider the use of non-opioid analgesics in these patients.",
+                                "linkHtml": {
+                                  "string": "WARNINGS; Life Threatening Respiratory Depression"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Adrenal Insufficiency"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use. Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure. If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible. If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids. Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers. Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency. The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency."
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Severe Hypotension"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "]. Monitor these patients for signs of hypotension after initiating or titrating the dosage of Oxycodone Hydrochloride and Acetaminophen Tablets. In patients with circulatory shock Oxycodone Hydrochloride and Acetaminophen Tablets may cause vasodilatation that can further reduce cardiac output and blood pressure. Avoid the use of Oxycodone Hydrochloride and Acetaminophen Tablets with circulatory shock.",
+                        "linkHtml": {
+                          "string": "PRECAUTIONS; Drug Interactions"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Hepatotoxicity"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver transplant and death. Most of the cases of liver injury are associated with the use of acetaminophen at doses that exceed 4000 milligrams per day, and often involve more than one acetaminophen-containing product. The excessive intake of acetaminophen may be intentional to cause self-harm or unintentional as patients attempt to obtain more pain relief or unknowingly take other acetaminophen-containing products."
+                        },
+                        {
+                          "string": "The risk of acute liver failure is higher in individuals with underlying liver disease and in individuals who ingest alcohol while taking acetaminophen."
+                        },
+                        {
+                          "string": "Instruct patients to look for acetaminophen or APAP on package labels and not to use more than one product that contains acetaminophen. Instruct patients to seek medical attention immediately upon ingestion of more than 4000 milligrams of acetaminophen per day, even if they feel well."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Serious Skin Reactions"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "Rarely, acetaminophen may cause serious skin reactions such as acute generalized exanthematous pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal. Patients should be informed about the signs of serious skin reactions, and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity"
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Hypersensitivity/Anaphylaxis"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "].",
+                        "linkHtml": {
+                          "string": "PRECAUTIONS; Information for Patients/Caregivers"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": " retention can further increase intracranial pressure. Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with Oxycodone Hydrochloride and Acetaminophen Tablets.",
+                          "sub": [
+                            {
+                              "string": "2"
+                            },
+                            {
+                              "string": "2"
+                            }
+                          ]
+                        },
+                        {
+                          "string": "Opioids may also obscure the clinical course in a patient with a head injury.  Avoid the use of Oxycodone Hydrochloride and Acetaminophen Tablets in patients with impaired consciousness or coma."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Risks of Use in Patients with Gastrointestinal Conditions"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "Oxycodone Hydrochloride and Acetaminophen Tablets are contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus."
+                        },
+                        {
+                          "string": "The administration of Oxycodone Hydrochloride and Acetaminophen Tablets, or other opioids may obscure the diagnosis or clinical course in patients with acute abdominal conditions."
+                        },
+                        {
+                          "string": "The oxycodone in Oxycodone Hydrochloride and Acetaminophen Tablets may cause spasm of the sphincter of Oddi. Opioids may cause increases in serum amylase. Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Increased Risk of Seizures in Patients with Seizure Disorders"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "The oxycodone in Oxycodone Hydrochloride and Acetaminophen Tablets may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occuring in other clinical settings associated with seizures. Monitor patients with a history of seizure disorders for worsened seizure control during Oxycodone Hydrochloride and Acetaminophen Tablets therapy."
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Withdrawal"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Oxycodone Hydrochloride and Acetaminophen Tablets. In these patients, mixed agonist/antagonist and partial analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms."
+                        },
+                        {
+                          "string": "].",
+                          "linkHtml": [
+                            {
+                              "string": "DOSAGE AND ADMINISTRATION"
+                            },
+                            {
+                              "string": "DRUG ABUSE AND DEPENDENCE"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Risks of Driving and Operating Machinery"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "].",
+                        "linkHtml": {
+                          "string": "PRECAUTIONS; Information for Patients/Caregivers"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "PRECAUTIONS"
+              },
+              "component": [
+                {
+                  "section": {
+                    "title": {
+                      "string": "Information for Patients/Caregivers"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "Advise the patient to read the FDA-approved patient labeling (Medication Guide)."
+                      }
+                    },
+                    "component": [
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Addiction, Abuse, and Misuse"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "]. Instruct patients not to share Oxycodone Hydrochloride and Acetaminophen Tablets with others and to take steps to protect Oxycodone Hydrochloride and Acetaminophen Tablets from theft or misuse.",
+                              "linkHtml": {
+                                "string": "WARNINGS"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Life-Threatening Respiratory Depression"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "]. Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.",
+                              "linkHtml": {
+                                "string": "WARNINGS"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Accidental Ingestion"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "]. Instruct patients to take steps to store Oxycodone Hydrochloride and Acetaminophen Tablets securely and to dispose of unused Oxycodone Hydrochloride and Acetaminophen Tablets by flushing tablets down the toilet. In the case of accidental ingestions, emergency medical care should be sought immediately.",
+                              "linkHtml": {
+                                "string": "WARNINGS"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Interactions with Benzodiazepines and Other CNS Depressants"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "].",
+                              "linkHtml": [
+                                {
+                                  "string": "WARNINGS"
+                                },
+                                {
+                                  "string": "PRECAUTIONS; Drug Interactions"
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Serotonin Syndrome"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "].",
+                              "linkHtml": {
+                                "string": "PRECAUTIONS; Drug Interactions"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Monoamine Oxidase Inhibitor (MAOI) Interaction"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "].",
+                              "linkHtml": {
+                                "string": "PRECAUTIONS; Drug Interactions"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Adrenal Insufficiency"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "].",
+                              "linkHtml": {
+                                "string": "WARNINGS"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Important Administration Instructions"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "Instruct patients how to properly take Oxycodone Hydrochloride and Acetaminophen Tablets ",
+                                "content": {
+                                  "string": ").",
+                                  "linkHtml": [
+                                    {
+                                      "string": "DOSAGE AND ADMINISTRATION"
+                                    },
+                                    {
+                                      "string": "WARNINGS"
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "string": "Advise patients not to adjust the medication dose themselves and to consult with their healthcare provider prior to any dosage adjustment."
+                              },
+                              {
+                                "string": "Advise patients who are treated with Oxycodone Hydrochloride and Acetaminophen Tablets for more than a few weeks not to abruptly discontinue the medication. Advise patients to consult with their physician for a gradual discontinuation dose schedule to taper off the medication."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Maximum Daily Dose of Acetaminophen"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "Inform patients to not take more than 4000 milligrams of acetaminophen per day. Advise patients to call their prescriber if they take more than the recommended dose."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Hypotension"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "].",
+                              "linkHtml": {
+                                "string": "WARNINGS"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Anaphylaxis"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "]",
+                              "linkHtml": [
+                                {
+                                  "string": "CONTRAINDICATIONS"
+                                },
+                                {
+                                  "string": "ADVERSE REACTIONS"
+                                }
+                              ],
+                              "content": {
+                                "string": "."
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Pregnancy"
+                          },
+                          "component": [
+                            {
+                              "section": {
+                                "title": {
+                                  "string": "Neonatal Opioid Withdrawal Syndrome"
+                                },
+                                "text": {
+                                  "paragraph": {
+                                    "string": "]",
+                                    "linkHtml": [
+                                      {
+                                        "string": "WARNINGS"
+                                      },
+                                      {
+                                        "string": "PRECAUTIONS; Pregnancy"
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            },
+                            {
+                              "section": {
+                                "title": {
+                                  "string": "Embryo-Fetal Toxicity"
+                                },
+                                "text": {
+                                  "paragraph": {
+                                    "string": "].",
+                                    "linkHtml": {
+                                      "string": "PRECAUTIONS; Pregnancy"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Lactation"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "].",
+                              "linkHtml": {
+                                "string": "PRECAUTIONS; Nursing Mothers"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Infertility"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "]",
+                              "linkHtml": {
+                                "string": "ADVERSE REACTIONS"
+                              },
+                              "content": {
+                                "string": "."
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Driving or Operating Heavy Machinery"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "].",
+                              "linkHtml": {
+                                "string": "PRECAUTIONS"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Constipation"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": ".",
+                              "content": [
+                                {
+                                  "string": "["
+                                },
+                                {
+                                  "string": "]"
+                                }
+                              ],
+                              "linkHtml": [
+                                {
+                                  "string": "ADVERSE REACTIONS"
+                                },
+                                {
+                                  "string": "CLINICAL PHARMACOLOGY"
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Disposal of Unused Oxycodone Hydrochloride and Acetaminophen Tablets"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "Advise patients to dispose of unused Oxycodone Hydrochloride and Acetaminophen Tablets by flushing unused tablets down the toilet."
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Laboratory Tests"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "Although oxycodone may cross-react with some drug urine tests, no available studies were found which determined the duration of detectability of oxycodone in urine drug screens. However, based on pharmacokinetic data, the approximate duration of detectability for a single dose of oxycodone is roughly estimated to be one to two days following drug exposure."
+                        },
+                        {
+                          "string": "Urine testing for opiates may be performed to determine illicit drug use and for medical reasons such as evaluation of patients with altered states of consciousness or monitoring efficacy of drug rehabilitation efforts. The preliminary identification of opiates in urine involves the use of an immunoassay screening and thin-layer chromatography (TLC). Gas chromatography/mass spectrometry (GC/MS) may be utilized as a third-stage identification step in the medical investigational sequence for opiate testing after immunoassay and TLC. The identities of 6-keto opiates (e.g., oxycodone) can further be differentiated by the analysis of their methoximetrimethylsilyl (MO-TMS) derivative."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Drug Interactions"
+                    },
+                    "component": [
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Inhibitors of CYP3A4 and CYP2D6"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "].",
+                                "linkHtml": {
+                                  "string": "WARNINGS"
+                                }
+                              },
+                              {
+                                "string": "], resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to Oxycodone Hydrochloride and Acetaminophen Tablets.",
+                                "linkHtml": {
+                                  "string": "CLINICAL PHARMACOLOGY"
+                                }
+                              },
+                              {
+                                "string": "If concomitant use is necessary, consider dosage reduction of Oxycodone Hydrochloride and Acetaminophen Tablets until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals. If a CYP3A4 inhibitor is discontinued, consider increasing the Oxycodone Hydrochloride and Acetaminophen Tablets dosage until stable drug effects are achieved."
+                              },
+                              {
+                                "string": "Monitor for signs of opioid withdrawal."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Inducers of CYP3A4"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "].",
+                                "linkHtml": [
+                                  {
+                                    "string": "CLINICAL PHARMACOLOGY"
+                                  },
+                                  {
+                                    "string": "WARNINGS"
+                                  }
+                                ]
+                              },
+                              {
+                                "string": "], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression.",
+                                "linkHtml": {
+                                  "string": "CLINICAL PHARMACOLOGY"
+                                }
+                              },
+                              {
+                                "string": "If concomitant use is necessary, consider increasing the Oxycodone Hydrochloride and Acetaminophen Tablets dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider Oxycodone Hydrochloride and Acetaminophen Tablets dosage reduction and monitor for signs of respiratory depression."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Benzodiazepines and Other CNS Depressants"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "Due to additive pharmacologic effect, the concomitant use of benzodiazepines and other CNS depressants such as benzodiazepines and other sedative hypnotics, anxiolytics, and tranquilizers, muscle relaxants, general anesthetics, antipsychotics, and other opioids, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death."
+                              },
+                              {
+                                "string": "].",
+                                "linkHtml": {
+                                  "string": "WARNINGS"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Serotonergic Drugs"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "].",
+                                "linkHtml": {
+                                  "string": "PRECAUTIONS; Information for Patients/Caregivers"
+                                }
+                              },
+                              {
+                                "string": "If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue Oxycodone Hydrochloride and Acetaminophen Tablets if serotonin syndrome is suspected."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Monoamine Oxidase Inhibitors (MAOIs)"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "].",
+                                "linkHtml": {
+                                  "string": "WARNINGS"
+                                }
+                              },
+                              {
+                                "string": "The use of Oxycodone Hydrochloride and Acetaminophen Tablets is not recommended for patients taking MAOIs or within 14 days of stopping such treatment."
+                              },
+                              {
+                                "string": "If urgent use of an opioid is necessary, use test doses and frequent titration of small doses to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "The concomitant use of opioids with other opioid analgesics, such as butorphanol, nalbuphine, pentazocine, may reduce the analgesic effect of Oxycodone Hydrochloride and Acetaminophen Tablets and/or precipitate withdrawal symptoms."
+                              },
+                              {
+                                "string": "Advise patient to avoid concomitant use of these drugs."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Muscle Relaxants"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "Oxycodone Hydrochloride and Acetaminophen Tablets may enhance the neuromuscular-blocking action of skeletal muscle relaxants and produce an increase in the degree of respiratory depression."
+                              },
+                              {
+                                "string": "If concomitant use is warranted, monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Oxycodone Hydrochloride and Acetaminophen Tablets and/or the muscle relaxant as necessary."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Diuretics"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone."
+                              },
+                              {
+                                "string": "If concomitant use is warranted, monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Anticholinergic Drugs"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus."
+                              },
+                              {
+                                "string": "If concomitant use is warranted, monitor patients for signs of urinary retention or reduced gastric motility when Oxycodone Hydrochloride and Acetaminophen Tablets are used concomitantly with anticholinergic drugs."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Alcohol, ethyl"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "Hepatotoxicity has occurred in chronic alcoholics following various dose levels (moderate to excessive) of acetaminophen."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Oral Contraceptives"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "Increase in glucuronidation resulting in increased plasma clearance and a decreased half-life of acetaminophen."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Charcoal (activated)"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "Reduces acetaminophen absorption when administered as soon as possible after overdose."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Beta Blockers (Propranolol)"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "Propranolol appears to inhibit the enzyme systems responsible for the glucuronidation and oxidation of acetaminophen. Therefore, the pharmacologic effects of acetaminophen may be increased."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Loop Diuretics"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "The effects of the loop diuretic may be decreased because acetaminophen may decrease renal prostaglandin excretion and decrease plasma renin activity."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Lamotrigine"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "Serum lamotrigine concentrations may be reduced, producing a decrease in therapeutic effects."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Probenecid"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "Probenecid may increase the therapeutic effectiveness of acetaminophen slightly."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Zidovudine"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "The pharmacologic effects of zidovudine may be decreased because of enhanced non-hepatic or renal clearance of zidovudine"
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Drug/Laboratory Test Interactions"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "Depending on the sensitivity/specificity and the test methodology, the individual components of Oxycodone Hydrochloride and Acetaminophen Tablets may cross-react with assays used in the preliminary detection of cocaine (primary urinary metabolite, benzoylecgonine) or marijuana (cannabinoids) in human urine. A more specific alternate chemical method must be used in order to obtain a confirmed analytical result. The preferred confirmatory method is gas chromatography/mass spectrometry (GC/MS). Moreover, clinical considerations and professional judgment should be applied to any drug-of-abuse test result, particularly when preliminary positive results are used."
+                        },
+                        {
+                          "string": "Acetaminophen may interfere with home blood glucose measurement systems; decreases of >20% in mean glucose values may be noted. This effect appears to be drug, concentration and system dependent."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Carcinogenesis, Mutagenesis, Impairment of Fertility"
+                    },
+                    "component": [
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Carcinogenesis"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "Long-term studies to evaluate the carcinogenic potential of the combination of Oxycodone Hydrochloride and Acetaminophen have not been conducted."
+                              },
+                              {
+                                "string": "Long-term studies in mice and rats have been completed by the National Toxicology Program to evaluate the carcinogenic potential of acetaminophen. In 2-year feeding studies, F344/N rats and B6C3F1 mice were fed a diet containing acetaminophen up to 6000 ppm. Female rats demonstrated equivocal evidence of carcinogenic activity based on increased incidences of mononuclear cell leukemia at 0.8 times the maximum human daily dose (MHDD) of 4 grams/day, based on a body surface area comparison.  In contrast, there was no evidence of carcinogenic activity in male rats that received up to 0.7 times or mice at up to 1.2-1.4 times the MHDD, based on a body surface area comparison."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Mutagenesis"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "mouse micronucleus assay. Oxycodone was clastogenic in the human lymphocyte chromosomal assay in the presence of metabolic activation and in the mouse lymphoma assay with or without metabolic activation.",
+                                "content": [
+                                  {
+                                    "string": "n"
+                                  },
+                                  {
+                                    "string": " vitro "
+                                  },
+                                  {
+                                    "string": "in vivo "
+                                  }
+                                ]
+                              },
+                              {
+                                "string": "In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6-times the MHDD, based on a body surface area comparison). In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8-times the MHDD, based on a body surface area comparison), suggesting a threshold effect."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Impairment of Fertility"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "In studies conducted by the National Toxicology Program, fertility assessments with acetaminophen have been completed in Swiss CD-1 mice via a continuous breeding study.  There were no effects on fertility parameters in mice consuming up to 1.7 times the MHDD of acetaminophen, based on a body surface area comparison. Although there was no effect on sperm motility or sperm density in the epididymis, there was a significant increase in the percentage of abnormal sperm in mice consuming 1.78 times the MHDD (based on a body surface comparison) and there was a reduction in the number of mating pairs producing a fifth litter at this dose, suggesting the potential for cumulative toxicity with chronic administration of acetaminophen near the upper limit of daily dosing."
+                              },
+                              {
+                                "string": "Published studies in rodents report that oral acetaminophen treatment of male animals at doses that are 1.2 times the MHDD and greater (based on a body surface comparison) result in decreased testicular weights, reduced spermatogenesis, reduced fertility, and reduced implantation sites in females given the same doses. These effects appear to increase with the duration of treatment. The clinical significance of these findings is not known."
+                              }
+                            ]
+                          },
+                          "component": {
+                            "section": {
+                              "title": {
+                                "string": "Infertility"
+                              },
+                              "text": {
+                                "paragraph": {
+                                  "string": "].",
+                                  "linkHtml": {
+                                    "string": "ADVERSE REACTIONS"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Pregnancy"
+                    },
+                    "component": [
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Teratogenic Effects"
+                          },
+                          "component": {
+                            "section": {
+                              "title": {
+                                "string": "Pregnancy Category C"
+                              },
+                              "text": {
+                                "paragraph": {
+                                  "string": "Animal reproductive studies have not been conducted with Oxycodone Hydrochloride and Acetaminophen Tablets. It is also not known whether Oxycodone Hydrochloride and Acetaminophen Tablets can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity. Oxycodone Hydrochloride and Acetaminophen Tablets should not be given to a pregnant woman unless in the judgment of the physician, the potential benefits outweigh the possible hazards."
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Nonteratogenic Effects"
+                          },
+                          "component": {
+                            "section": {
+                              "title": {
+                                "string": "Fetal/Neonatal Adverse Reactions"
+                              },
+                              "text": {
+                                "paragraph": [
+                                  {
+                                    "string": "Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth."
+                                  },
+                                  {
+                                    "string": "].",
+                                    "linkHtml": {
+                                      "string": "WARNINGS"
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Labor or Delivery"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates. An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate. Oxycodone Hydrochloride and Acetaminophen Tablets are not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate. Opioid analgesics, including Oxycodone Hydrochloride and Acetaminophen Tablets, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions. However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor. Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression."
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Nursing Mothers"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "Ordinarily, nursing should not be undertaken while a patient is receiving Oxycodone Hydrochloride and Acetaminophen Tablets because of the possibility of sedation and/or respiratory depression in the infant. Oxycodone is excreted in breast milk in low concentrations, and there have been rare reports of somnolence and lethargy in babies of nursing mothers taking an oxycodone/acetaminophen product."
+                        },
+                        {
+                          "string": "Acetaminophen is also excreted in breast milk in low concentrations."
+                        },
+                        {
+                          "string": "The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Oxycodone Hydrochloride and Acetaminophen Tablets and any potential adverse effects on the breastfed infant from Oxycodone Hydrochloride and Acetaminophen Tablets or from the underlying maternal condition."
+                        },
+                        {
+                          "string": "Infants exposed to Oxycodone Hydrochloride and Acetaminophen Tablets through breast milk should be monitored for excess sedation and respiratory depression. Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Pediatric Use"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "Safety and effectiveness of Oxycodone Hydrochloride and Acetaminophen Tablets in pediatric patients have not been established."
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Geriatric Use"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "Elderly patients (aged 65 years or older) may have increased sensitivity Oxycodone Hydrochloride and Acetaminophen Tablets. In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy."
+                        },
+                        {
+                          "string": "].",
+                          "linkHtml": {
+                            "string": "WARNINGS"
+                          }
+                        },
+                        {
+                          "string": "These drugs are known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Hepatic Impairment"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "In a pharmacokinetic study of oxycodone in patients with end-stage liver disease, oxycodone plasma clearance decreased and the elimination half-life increased."
+                        },
+                        {
+                          "string": ".",
+                          "content": {
+                            "string": "]",
+                            "linkHtml": {
+                              "string": "Clinical Pharmacology"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Renal Impairment"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "In a study of patients with end stage renal impairment, mean elimination half-life was prolonged in uremic patients due to increased volume of distribution and reduced clearance. Oxycodone should be used      with caution in patients with renal impairment."
+                        },
+                        {
+                          "string": ".",
+                          "content": {
+                            "string": ")]",
+                            "linkHtml": {
+                              "string": "Clinical Pharmacology"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "ADVERSE REACTIONS"
+              },
+              "text": {
+                "paragraph": [
+                  {
+                    "string": "The following adverse reactions have been identified during post approval use of Oxycodone Hydrochloride and Acetaminophen Tablets. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure."
+                  },
+                  {
+                    "string": ").",
+                    "linkHtml": {
+                      "string": "OVERDOSAGE"
+                    }
+                  },
+                  {
+                    "string": "The most frequently observed non-serious adverse reactions include lightheadedness, dizziness, drowsiness or sedation, nausea, and vomiting. These effects seem to be more prominent in ambulatory than in nonambulatory patients, and some of these adverse reactions may be alleviated if the patient lies down. Other adverse reactions include euphoria, dysphoria, constipation, and pruritus."
+                  },
+                  {
+                    "string": "Hypersensitivity reactions may include: Skin eruptions, urticarial, erythematous skin reactions. Hematologic reactions may include: thrombocytopenia, neutropenia, pancytopenia, hemolytic anemia. Rare cases of agranulocytosis has likewise been associated with acetaminophen use. In high doses, the most serious adverse effect is a dose-dependent, potentially fatal hepatic necrosis. Renal tubular necrosis and hypoglycemic coma also may occur."
+                  },
+                  {
+                    "string": "Other adverse reactions obtained from postmarketing experiences with oxycodone and acetaminophen are listed by organ system and in decreasing order of severity and/or frequency as follows:"
+                  },
+                  {
+                    "content": {
+                      "string": "Body as a Whole: "
+                    },
+                    "string": "Anaphylactoid reaction, allergic reaction, malaise, asthenia, fatigue, chest pain, fever, hypothermia, thirst, headache, increased sweating, accidental overdose, non-accidental overdose"
+                  },
+                  {
+                    "content": {
+                      "string": "Cardiovascular: "
+                    },
+                    "string": "Hypotension, hypertension, tachycardia, orthostatic hypotension, bradycardia, palpitations, dysrhythmias"
+                  },
+                  {
+                    "content": [
+                      {
+                        "string": "Central "
+                      },
+                      {
+                        "string": "and Peripheral Nervous System: "
+                      }
+                    ],
+                    "string": "Stupor, tremor, paraesthesia, hypoaesthesia, lethargy, seizures, anxiety, mental impairment, agitation, cerebral edema, confusion, dizziness"
+                  },
+                  {
+                    "content": {
+                      "string": "Fluid and Electrolyte: "
+                    },
+                    "string": "Dehydration, hyperkalemia, metabolic acidosis, respiratory alkalosis"
+                  },
+                  {
+                    "content": {
+                      "string": "Gastrointestinal: "
+                    },
+                    "string": "Dyspepsia, taste disturbances, abdominal pain, abdominal distention, sweating increased, diarrhea, dry mouth, flatulence, gastrointestinal disorder, nausea, vomiting, pancreatitis, intestinal obstruction, ileus"
+                  },
+                  {
+                    "content": {
+                      "string": "Hepatic: "
+                    },
+                    "string": "Transient elevations of hepatic enzymes, increase in bilirubin, hepatitis, hepatic failure, jaundice, hepatotoxicity, hepatic disorder"
+                  },
+                  {
+                    "content": [
+                      {
+                        "string": "Hearing "
+                      },
+                      {
+                        "string": "and Vestibular: "
+                      }
+                    ],
+                    "string": "Hearing loss, tinnitus"
+                  },
+                  {
+                    "content": {
+                      "string": "Hematologic:"
+                    },
+                    "string": " Thrombocytopenia"
+                  },
+                  {
+                    "content": {
+                      "string": "Hypersensitivity: "
+                    },
+                    "string": "Acute anaphylaxis, angioedema, asthma, bronchospasm, laryngeal edema, urticaria, anaphylactoid reaction"
+                  },
+                  {
+                    "content": [
+                      {
+                        "string": "Metabolic "
+                      },
+                      {
+                        "string": "and Nutritional: "
+                      }
+                    ],
+                    "string": "Hypoglycemia, hyperglycemia, acidosis, alkalosis"
+                  },
+                  {
+                    "content": {
+                      "string": "Musculoskeletal:"
+                    },
+                    "string": " Myalgia, rhabdomyolysis"
+                  },
+                  {
+                    "content": {
+                      "string": "Ocular: "
+                    },
+                    "string": "Miosis, visual disturbances, red eye"
+                  },
+                  {
+                    "content": {
+                      "string": "Psychiatric: "
+                    },
+                    "string": "Drug dependence, drug abuse, insomnia, confusion, anxiety, agitation, depressed level of consciousness, nervousness, hallucination, somnolence, depression, suicide"
+                  },
+                  {
+                    "content": {
+                      "string": "Respiratory System: "
+                    },
+                    "string": "Bronchospasm, dyspnea, hyperpnea, pulmonary edema, tachypnea, aspiration, hypoventilation, laryngeal edema"
+                  },
+                  {
+                    "content": {
+                      "string": "Skin and Appendages: "
+                    },
+                    "string": "Erythema, urticaria, rash, flushing"
+                  },
+                  {
+                    "content": {
+                      "string": "Urogenital: "
+                    },
+                    "string": "Interstitial nephritis, papillary necrosis, proteinuria, renal insufficiency and failure, urinary retention"
+                  }
+                ],
+                "list": {
+                  "item": [
+                    {
+                      "content": {
+                        "string": "Serotonin syndrome"
+                      },
+                      "string": ": Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs."
+                    },
+                    {
+                      "content": {
+                        "string": "Adrenal insufficiency"
+                      },
+                      "string": ": Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use."
+                    },
+                    {
+                      "content": {
+                        "string": "Anaphylaxis"
+                      },
+                      "string": ": Anaphylaxis has been reported with ingredients contained in Oxycodone Hydrochloride and Acetaminophen Tablets."
+                    },
+                    {
+                      "content": {
+                        "string": "Androgen deficienc"
+                      },
+                      "string": "].",
+                      "linkHtml": {
+                        "string": "Clinical Pharmacology"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "DRUG ABUSE AND DEPENDENCE"
+              },
+              "component": [
+                {
+                  "section": {
+                    "title": {
+                      "string": "Controlled Substance"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "Oxycodone Hydrochloride and Acetaminophen Tablets n contain oxycodone, a Schedule II controlled substance."
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Abuse"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "].",
+                          "linkHtml": {
+                            "string": "WARNINGS"
+                          }
+                        },
+                        {
+                          "string": "All patients treated with opioids require careful monitoring for signs of abuse and addiction, since use of opioid analgesic products carries the risk of addiction even under appropriate medical use."
+                        },
+                        {
+                          "string": "Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects."
+                        },
+                        {
+                          "string": "Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal."
+                        },
+                        {
+                          "string": "\"Drug-seeking\" behavior is very common in persons with substance use disorders. Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated \"loss\" of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating health care provider(s). \"Doctor shopping\" (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people suffering from untreated addiction. Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control."
+                        },
+                        {
+                          "string": "Abuse and addiction are separate and distinct from physical dependence and tolerance. Health care providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts. In addition, abuse of opioids can occur in the absence of true addiction."
+                        },
+                        {
+                          "string": "Oxycodone Hydrochloride and Acetaminophen Tablets, like other opioids, can be diverted for non- medical use into illicit channels of distribution. Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised."
+                        },
+                        {
+                          "string": "Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs."
+                        }
+                      ]
+                    },
+                    "component": {
+                      "section": {
+                        "title": {
+                          "string": "Risks Specific to Abuse of Oxycodone Hydrochloride and Acetaminophen Tablets"
+                        },
+                        "text": {
+                          "paragraph": [
+                            {
+                              "string": "Oxycodone Hydrochloride and Acetaminophen Tablets are for oral use only. Abuse of Oxycodone Hydrochloride and Acetaminophen Tablets poses a risk of overdose and death. The risk is increased with concurrent abuse of Oxycodone Hydrochloride and Acetaminophen Tablets with alcohol and other central nervous system depressants."
+                            },
+                            {
+                              "string": "Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver transplant and death"
+                            },
+                            {
+                              "string": "Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV."
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Dependence"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "Both tolerance and physical dependence can develop during chronic opioid therapy. Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors). Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects."
+                        },
+                        {
+                          "string": "Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug. Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine). Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage."
+                        },
+                        {
+                          "string": "]. If Oxycodone Hydrochloride and Acetaminophen Tablets is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur. Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis. Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.",
+                          "linkHtml": {
+                            "string": "DOSAGE AND ADMINISTRATION"
+                          }
+                        },
+                        {
+                          "string": "].",
+                          "linkHtml": {
+                            "string": "PRECAUTIONS; Pregnancy"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "OVERDOSAGE"
+              },
+              "text": {
+                "paragraph": {
+                  "string": "Following an acute overdosage, toxicity may result from the oxycodone or the acetaminophen."
+                }
+              },
+              "component": [
+                {
+                  "section": {
+                    "title": {
+                      "string": "Clinical Presentation"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "Acute overdosage with oxycodone can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death. Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations."
+                      }
+                    },
+                    "component": {
+                      "section": {
+                        "title": {
+                          "string": "Acetaminophen"
+                        },
+                        "text": {
+                          "paragraph": [
+                            {
+                              "string": "Dose-dependent potentially fatal hepatic necrosis is the most serious adverse effect of acetaminophen overdosage . Renal tubular necrosis, hypoglycemic coma, and coagulation defects may also occur."
+                            },
+                            {
+                              "string": "Early symptoms following a potentially hepatotoxic overdose may include: nausea, vomiting, diaphoresis, and general malaise. Clinical and laboratory evidence of hepatic toxicity may not be apparent until 48 to 72 hours post-ingestion."
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Treatment of Overdose"
+                    },
+                    "component": [
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Oxycodone"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "In case of overdose, priorities are the reestablishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed. Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated. Cardiac arrest or arrhythmias will require advanced life-support techniques."
+                              },
+                              {
+                                "string": "The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose. For clinically significant respiratory or circulatory depression secondary to oxycodone overdose, administer an opioid antagonist. Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to oxycodone overdose."
+                              },
+                              {
+                                "string": "Because the duration of opioid reversal is expected to be less than the duration of action of oxycodone in Oxycodone Hydrochloride and Acetaminophen Tablets, carefully monitor the patient until spontaneous respiration is reliably reestablished. If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product's prescribing information."
+                              },
+                              {
+                                "string": "In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome. The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered. If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be initiated with care and by titration with smaller than usual doses of the antagonist."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Acetaminophen"
+                          },
+                          "text": {
+                            "paragraph": [
+                              {
+                                "string": "Gastric decontamination with activated charcoal should be administered just prior to N-acetylcysteine (NAC) to decrease systemic absorption if acetaminophen ingestion is known or suspected to have occurred within a few hours of presentation. Serum acetaminophen levels should be obtained immediately if the patient presents 4 hours or more after ingestion to assess potential risk of hepatotoxicity; acetaminophen levels drawn less than 4 hours post-ingestion may be misleading. To obtain the best possible outcome, NAC should be administered as soon as possible where impending or evolving liver injury is suspected. Intravenous NAC may be administered when circumstances preclude oral administration."
+                              },
+                              {
+                                "string": "Vigorous supportive therapy is required in severe intoxication. Procedures to limit the continuing absorption of the drug must be readily performed since the hepatic injury is dose dependent and occurs early in the course of intoxication"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "DOSAGE AND ADMINISTRATION"
+              },
+              "component": [
+                {
+                  "section": {
+                    "title": {
+                      "string": "Important Dosage and Administration Instructions"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals ",
+                          "content": {
+                            "string": "].",
+                            "linkHtml": {
+                              "string": "Warnings"
+                            }
+                          }
+                        },
+                        {
+                          "string": "].",
+                          "linkHtml": {
+                            "string": "WARNINGS"
+                          }
+                        },
+                        {
+                          "string": "].",
+                          "linkHtml": {
+                            "string": "WARNINGS"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Initial Dosage"
+                    },
+                    "component": [
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Initiating Treatment with Oxycodone Hydrochloride and Acetaminophen Tablets"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "The usual adult dosage is one tablet every 6 hours as needed for pain. The total daily dose of acetaminophen should not exceed 4 grams."
+                            },
+                            "table": {
+                              "thead": {
+                                "tr": {
+                                  "th": [
+                                    {
+                                      "string": "Strength"
+                                    },
+                                    {
+                                      "string": "Usual Adult Dosage"
+                                    },
+                                    {
+                                      "string": "Maximal Daily Dose"
+                                    }
+                                  ]
+                                }
+                              },
+                              "tbody": {
+                                "tr": [
+                                  {
+                                    "td": [
+                                      {
+                                        "string": "Oxycodone Hydrochloride and Acetaminophen Tablets 5 mg/325 mg"
+                                      },
+                                      {
+                                        "string": "1 tablet every 6 hours as needed for pain"
+                                      },
+                                      {
+                                        "string": "12 Tablets"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "td": [
+                                      {
+                                        "string": "Oxycodone Hydrochloride and Acetaminophen Tablets 7.5 mg/325 mg"
+                                      },
+                                      {
+                                        "string": "1 tablet every 6 hours as needed for pain"
+                                      },
+                                      {
+                                        "string": "8 Tablets"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "td": [
+                                      {
+                                        "string": "Oxycodone Hydrochloride and Acetaminophen Tablets 10 mg/325 mg"
+                                      },
+                                      {
+                                        "string": "1 tablet every 6 hours as needed for pain"
+                                      },
+                                      {
+                                        "string": "6 Tablets"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "section": {
+                          "title": {
+                            "string": "Conversion from Oxycodone Hydrochloride and Acetaminophen to Extended-Release Oxycodone"
+                          },
+                          "text": {
+                            "paragraph": {
+                              "string": "The relative bioavailability of Oxycodone Hydrochloride and Acetaminophen Tablets or Oral Solution compared to extended-release oxycodone is unknown, so conversion to extended-release oxycodone must be accompanied by close observation for signs of excessive sedation and respiratory depression."
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Titration and Maintenance of Therapy"
+                    },
+                    "text": {
+                      "paragraph": [
+                        {
+                          "string": "]. Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.",
+                          "linkHtml": {
+                            "string": "WARNINGS"
+                          }
+                        },
+                        {
+                          "string": "If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the Oxycodone Hydrochloride and Acetaminophen Tablets or Oral Solution dosage. If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage. Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "section": {
+                    "title": {
+                      "string": "Discontinuation of Oxycodone Hydrochloride and Acetaminophen Tablets and Oral Solution"
+                    },
+                    "text": {
+                      "paragraph": {
+                        "string": "].",
+                        "linkHtml": [
+                          {
+                            "string": "WARNINGS"
+                          },
+                          {
+                            "string": "DRUG ABUSE AND DEPENDENCE"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "HOW SUPPLIED"
+              },
+              "text": {
+                "paragraph": [
+                  {
+                    "string": "Oxycodone and Acetaminophen Tablets, USP are supplied as follows:"
+                  },
+                  {
+                    "string": " on one side of the tablet and blank on the other side. They are available as follows:",
+                    "content": {
+                      "string": "103"
+                    }
+                  },
+                  {
+                    "string": "bottles of 100 tablets"
+                  },
+                  {
+                    "string": " above the score on one side of the tablet and blank on the other side. They are available as follows:",
+                    "content": {
+                      "string": "104"
+                    }
+                  },
+                  {
+                    "string": "bottles of 100 tablets"
+                  },
+                  {
+                    "string": "100 (10×10) Unit Dose Tablets"
+                  },
+                  {
+                    "string": " on one side of the tablet and blank on the other side. They are available as follows:",
+                    "content": {
+                      "string": "105"
+                    }
+                  },
+                  {
+                    "string": "bottles of 100 tablets"
+                  },
+                  {
+                    "string": "100 (10×10) Unit Dose Tablets"
+                  },
+                  {
+                    "string": " on one side of the tablet and blank on the other side. They are available as follows:",
+                    "content": {
+                      "string": "106"
+                    }
+                  },
+                  {
+                    "string": "bottles of 100 tablets"
+                  },
+                  {
+                    "string": "100 (10×10) Unit Dose Tablets"
+                  }
+                ]
+              },
+              "component": {
+                "section": {
+                  "title": {
+                    "string": "Storage"
+                  },
+                  "text": {
+                    "paragraph": {
+                      "string": "Store at 20° to 25°C (68° to 77°F). [See USP Controlled Room Temperature.] Protect from moisture. Dispense in a tight, light-resistant container as defined in the USP."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "section": {
+              "text": {
+                "paragraph": [
+                  {
+                    "string": "Manufactured by:"
+                  },
+                  {
+                    "content": {
+                      "string": "Mayne Pharma"
+                    }
+                  },
+                  {
+                    "string": "Greenville, NC 27834"
+                  },
+                  {
+                    "string": "1-844-825-8500"
+                  },
+                  {
+                    "content": {
+                      "string": "Revised November 2016"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "section": {
+              "text": {
+                "table": {
+                  "tbody": {
+                    "tr": [
+                      {
+                        "td": {
+                          "content": [
+                            {
+                              "string": "Medication Guide"
+                            },
+                            {
+                              "string": "Oxycodone Hydrochloride (ox\" i koe' done hye\" droe klor' ide) and Acetaminophen (a seet\" a min' oh fen) Tablets, CII"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "td": {
+                          "content": {
+                            "string": "Oxycodone Hydrochloride and Acetaminophen Tablets are:"
+                          },
+                          "list": {
+                            "item": [
+                              {
+                                "string": "A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage pain, severe enough to require an opioid analgesic and for which alternative treatments are inadequate and when other pain treatments such as non-opioid pain medicines do not treat your pain well enough or you cannot tolerate them."
+                              },
+                              {
+                                "string": "An opioid pain medicine that can put you at risk for overdose and death. Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "td": {
+                          "content": {
+                            "string": "Important information about  Oxycodone Hydrochloride and Acetaminophen Tablets:"
+                          }
+                        }
+                      },
+                      {
+                        "td": {
+                          "list": {
+                            "item": [
+                              {
+                                "content": {
+                                  "string": "Get emergency help right away if you take too much Oxycodone Hydrochloride and Acetaminophen Tablets (overdose). "
+                                },
+                                "string": "When you first start taking Oxycodone Hydrochloride and Acetaminophen Tablets, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur. Taking Oxycodone Hydrochloride and Acetaminophen Tablets with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death."
+                              },
+                              {
+                                "string": "Never give anyone else your Oxycodone Hydrochloride and Acetaminophen Tablets. They could die from taking it. Store Oxycodone Hydrochloride and Acetaminophen Tablets away from children and in a safe place to prevent stealing or abuse. Selling or giving away Oxycodone Hydrochloride and Acetaminophen Tablets are against the law."
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "td": {
+                          "content": {
+                            "string": "Do not take Oxycodone Hydrochloride and Acetaminophen Tablets if you have:"
+                          },
+                          "list": {
+                            "item": [
+                              {
+                                "string": "Severe asthma, trouble breathing, or other lung problems."
+                              },
+                              {
+                                "string": "A bowel blockage or have narrowing of the stomach or intestines"
+                              },
+                              {
+                                "string": "known hypersensitivity to oxycodone, acetaminophen, or any ingredient in Oxycodone Hydrochloride and Acetaminophen Tablets"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "td": {
+                          "content": {
+                            "string": "Before taking Oxycodone Hydrochloride and Acetaminophen Tablets, tell your healthcare provider if you have a history of:"
+                          },
+                          "list": [
+                            {
+                              "item": [
+                                {
+                                  "string": "Head injury, seizures"
+                                },
+                                {
+                                  "string": "Liver, kidney, thyroid problems"
+                                },
+                                {
+                                  "string": "Problems urinating"
+                                },
+                                {
+                                  "string": "Pancreas or gallbladder problems"
+                                },
+                                {
+                                  "string": "Abuse of street or prescription drugs, alcohol addiction, or mental health problems "
+                                }
+                              ]
+                            },
+                            {
+                              "item": [
+                                {
+                                  "content": {
+                                    "string": "Pregnant or planning to become pregnant. "
+                                  },
+                                  "string": "Prolonged use of Oxycodone Hydrochloride and Acetaminophen Tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated."
+                                },
+                                {
+                                  "content": {
+                                    "string": "Breastfeeding."
+                                  },
+                                  "string": " Oxycodone Hydrochloride and Acetaminophen Tablets passes into breast milk and may harm your baby."
+                                }
+                              ]
+                            }
+                          ],
+                          "string": "Taking prescription or over-the-counter medicines, vitamins, or herbal supplements. Taking Oxycodone Hydrochloride and Acetaminophen Tablets with certain other medicines can cause serious side effects that could lead to death."
+                        }
+                      },
+                      {
+                        "td": {
+                          "content": {
+                            "string": "When taking Oxycodone Hydrochloride and Acetaminophen Tablets:"
+                          },
+                          "list": {
+                            "item": [
+                              {
+                                "string": "Do not change your dose. Take Oxycodone Hydrochloride and Acetaminophen Tablets exactly as prescribed by your healthcare provider. Use the lowest dose possible for the shortest time needed."
+                              },
+                              {
+                                "string": "Take your prescribed dose every 6 hours as needed for pain. Do not take more than your prescribed dose. If you miss a dose, take your next dose at your usual time."
+                              },
+                              {
+                                "string": "Call your healthcare provider if the dose you are taking does not control your pain."
+                              },
+                              {
+                                "string": "If you have been taking Oxycodone Hydrochloride and Acetaminophen Tablets regularly, do not stop taking Oxycodone Hydrochloride and Acetaminophen Tablets without talking to your healthcare provider."
+                              }
+                            ]
+                          },
+                          "string": "After you stop taking Oxycodone Hydrochloride and Acetaminophen Tablets, dispose of unused tablets by flushing them down the toilet."
+                        }
+                      },
+                      {
+                        "td": {
+                          "content": {
+                            "string": "While taking Oxycodone Hydrochloride and Acetaminophen Tablets DO NOT:"
+                          },
+                          "list": {
+                            "item": {
+                              "string": "Drink alcohol or use prescription or over-the-counter medicines that contain alcohol. Using products containing alcohol during treatment with Oxycodone Hydrochloride and Acetaminophen Tablets may cause you to overdose and die."
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "td": {
+                          "content": [
+                            {
+                              "string": "The possible side effects of Oxycodone Hydrochloride and Acetaminophen Tablets:"
+                            },
+                            {
+                              "string": "Get emergency medical help if you have:"
+                            },
+                            {
+                              "string": "For more information go to dailymed.nlm.nih.gov."
+                            }
+                          ],
+                          "list": [
+                            {
+                              "item": {
+                                "string": "Constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain. Call your healthcare provider if you have any of these symptoms and they are severe."
+                              }
+                            },
+                            {
+                              "item": {
+                                "string": "Trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue, or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion."
+                              }
+                            }
+                          ],
+                          "string": "Distributed by: Mayne Pharma or call 1-844-825-8500"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "section": {
+              "text": {
+                "paragraph": [
+                  {
+                    "string": "This Medication Guide has been approved by the U.S. Food and Drug Administration."
+                  },
+                  {
+                    "string": "Revised: 11/2016"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "PRINCIPAL DISPLAY PANEL - 2.5 mg/325 mg Tablet Bottle Label"
+              },
+              "text": {
+                "paragraph": [
+                  {
+                    "string": "-01",
+                    "content": {
+                      "string": "840"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "CII"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "Tablets, USP"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "2.5 mg*/325 mg"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "Medication Guide to each patient."
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "strength is stated"
+                    }
+                  },
+                  {
+                    "string": "Rx Only"
+                  },
+                  {
+                    "string": "100 Tablets"
+                  },
+                  {
+                    "string": "mayne ",
+                    "content": {
+                      "string": " pharma"
+                    }
+                  }
+                ]
+              },
+              "component": {
+                "observationMedia": {
+                  "text": {
+                    "string": "PRINCIPAL DISPLAY PANEL - 2.5 mg/325 mg Tablet Bottle Label"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "PRINCIPAL DISPLAY PANEL - 5 mg/325 mg Tablet Bottle Label"
+              },
+              "text": {
+                "paragraph": [
+                  {
+                    "string": "-01",
+                    "content": {
+                      "string": "841"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "CII"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "Tablets, USP"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "5 mg*/325 mg"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "Medication Guide to each patient."
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "strength is stated"
+                    }
+                  },
+                  {
+                    "string": "Rx Only"
+                  },
+                  {
+                    "string": "100 Tablets"
+                  },
+                  {
+                    "string": "mayne ",
+                    "content": {
+                      "string": " pharma"
+                    }
+                  }
+                ]
+              },
+              "component": {
+                "observationMedia": {
+                  "text": {
+                    "string": "PRINCIPAL DISPLAY PANEL - 5 mg/325 mg Tablet Bottle Label"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "PRINCIPAL DISPLAY PANEL - 7.5 mg/325 mg Tablet Bottle Label"
+              },
+              "text": {
+                "paragraph": [
+                  {
+                    "string": "-01",
+                    "content": {
+                      "string": "842"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "CII"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "Tablets, USP"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "7.5 mg*/325 mg"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "Medication Guide to each patient."
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "strength is stated"
+                    }
+                  },
+                  {
+                    "string": "Rx Only"
+                  },
+                  {
+                    "string": "100 Tablets"
+                  },
+                  {
+                    "string": "mayne ",
+                    "content": {
+                      "string": " pharma"
+                    }
+                  }
+                ]
+              },
+              "component": {
+                "observationMedia": {
+                  "text": {
+                    "string": "PRINCIPAL DISPLAY PANEL - 7.5 mg/325 mg Tablet Bottle Label"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "PRINCIPAL DISPLAY PANEL - 10 mg/325 mg Tablet Bottle Label"
+              },
+              "text": {
+                "paragraph": [
+                  {
+                    "string": "-01",
+                    "content": {
+                      "string": "843"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "CII"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "Tablets, USP"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "10 mg*/325 mg"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "Medication Guide to each patient."
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "strength is stated"
+                    }
+                  },
+                  {
+                    "string": "Rx Only"
+                  },
+                  {
+                    "string": "100 Tablets"
+                  },
+                  {
+                    "string": "mayne ",
+                    "content": {
+                      "string": " pharma"
+                    }
+                  }
+                ]
+              },
+              "component": {
+                "observationMedia": {
+                  "text": {
+                    "string": "PRINCIPAL DISPLAY PANEL - 10 mg/325 mg Tablet Bottle Label"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "PRINCIPAL DISPLAY PANEL - 5 mg/325 mg Tablet Blister Pack Carton Label"
+              },
+              "text": {
+                "paragraph": [
+                  {
+                    "string": "-47",
+                    "content": {
+                      "string": "405"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "CII"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "Tablets, USP"
+                    }
+                  },
+                  {
+                    "content": [
+                      {
+                        "string": "5"
+                      },
+                      {
+                        "string": "*/325"
+                      }
+                    ],
+                    "string": " mg "
+                  },
+                  {
+                    "string": "unless the strength is stated."
+                  },
+                  {
+                    "string": "04/2017",
+                    "content": [
+                      {
+                        "string": "Medication Guide to each patient"
+                      },
+                      {
+                        "string": "STORAGE:"
+                      },
+                      {
+                        "string": " Protect from moisture."
+                      },
+                      {
+                        "string": "DEA ORDER FORM REQUIRED."
+                      },
+                      {
+                        "string": "Mayne Pharma"
+                      }
+                    ]
+                  },
+                  {
+                    "string": "mayne ",
+                    "content": {
+                      "string": "pharma"
+                    }
+                  }
+                ]
+              },
+              "component": {
+                "observationMedia": {
+                  "text": {
+                    "string": "PRINCIPAL DISPLAY PANEL - 5 mg/325 mg Tablet Blister Pack Carton Label"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "PRINCIPAL DISPLAY PANEL - 7.5 mg/325 mg Tablet Blister Pack Carton Label"
+              },
+              "text": {
+                "paragraph": [
+                  {
+                    "string": "-47",
+                    "content": {
+                      "string": "475"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "CII"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "Tablets, USP"
+                    }
+                  },
+                  {
+                    "content": [
+                      {
+                        "string": "7.5"
+                      },
+                      {
+                        "string": "*/325"
+                      }
+                    ],
+                    "string": " mg"
+                  },
+                  {
+                    "string": "unless the strength is stated."
+                  },
+                  {
+                    "string": "04/2017",
+                    "content": [
+                      {
+                        "string": "Medication Guide to each patient"
+                      },
+                      {
+                        "string": "STORAGE:"
+                      },
+                      {
+                        "string": " Protect from moisture."
+                      },
+                      {
+                        "string": "DEA ORDER FORM REQUIRED."
+                      },
+                      {
+                        "string": "Mayne Pharma"
+                      }
+                    ]
+                  },
+                  {
+                    "string": "mayne ",
+                    "content": {
+                      "string": "pharma"
+                    }
+                  }
+                ]
+              },
+              "component": {
+                "observationMedia": {
+                  "text": {
+                    "string": "PRINCIPAL DISPLAY PANEL - 7.5 mg/325 mg Tablet Blister Pack Carton Label"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "section": {
+              "title": {
+                "string": "PRINCIPAL DISPLAY PANEL - 10 mg/325 mg Tablet Blister Pack Carton Label"
+              },
+              "text": {
+                "paragraph": [
+                  {
+                    "string": "-47",
+                    "content": {
+                      "string": "480"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "CII"
+                    }
+                  },
+                  {
+                    "content": {
+                      "string": "Tablets, USP"
+                    }
+                  },
+                  {
+                    "content": [
+                      {
+                        "string": "10 "
+                      },
+                      {
+                        "string": "*/325"
+                      }
+                    ],
+                    "string": " mg "
+                  },
+                  {
+                    "string": "unless the strength is stated."
+                  },
+                  {
+                    "string": "04/2017",
+                    "content": [
+                      {
+                        "string": "Medication Guide to each patient"
+                      },
+                      {
+                        "string": "STORAGE:"
+                      },
+                      {
+                        "string": " Protect from moisture."
+                      },
+                      {
+                        "string": "DEA ORDER FORM REQUIRED."
+                      },
+                      {
+                        "string": "Mayne Pharma"
+                      }
+                    ]
+                  },
+                  {
+                    "string": "mayne ",
+                    "content": {
+                      "string": "pharma"
+                    }
+                  }
+                ]
+              },
+              "component": {
+                "observationMedia": {
+                  "text": {
+                    "string": "PRINCIPAL DISPLAY PANEL - 10 mg/325 mg Tablet Blister Pack Carton Label"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

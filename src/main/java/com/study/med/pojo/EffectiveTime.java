@@ -1,22 +1,12 @@
 
 package com.study.med.pojo;
 
-import java.util.HashMap;
-import java.util.Map;
-
-
-
-
-
-
 public class EffectiveTime {
 
 
     private String value;
     
     private Low low;
-
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
 
     public String getValue() {
@@ -38,14 +28,12 @@ public class EffectiveTime {
         this.low = low;
     }
 
-
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("{");
+        sb.append("value:'").append(value).append('\'');
+        if(low != null) sb.append(", low:").append(low);
+        sb.append('}');
+        return sb.toString();
     }
-
-
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
-    }
-
 }

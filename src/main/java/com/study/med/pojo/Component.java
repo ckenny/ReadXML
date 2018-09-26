@@ -1,16 +1,11 @@
 
 package com.study.med.pojo;
 
-import java.util.HashMap;
-import java.util.Map;
-
-
 public class Component {
 
     private StructuredBody structuredBody;
     private Section section;
     private ObservationMedia observationMedia;
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
     public StructuredBody getStructuredBody() {
         return structuredBody;
@@ -36,15 +31,25 @@ public class Component {
         this.observationMedia = observationMedia;
     }
 
-
-
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("{");
+        if(structuredBody != null) {
+            sb.append("structuredBody:").append(structuredBody);
+        }
+        if(section != null) {
+            if(sb.length() > 1 && sb.charAt(sb.length()-1) != ',') {
+                sb.append(',');
+            }
+            sb.append(" section:").append(section);
+        }
+        if(observationMedia != null) {
+            if(sb.length() > 1 && sb.charAt(sb.length()-1) != ',') {
+                sb.append(',');
+            }
+            sb.append(" observationMedia:").append(observationMedia);
+        }
+        sb.append('}');
+        return sb.toString();
     }
-
-
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
-    }
-
 }

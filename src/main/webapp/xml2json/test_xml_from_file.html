@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Example external File with XML to JSON</title>
+<script type="text/javascript" src="xml2json.js"></script>
+<style type="text/css">
+h1 {
+  margin:3px auto 8px auto;
+  font-size:1.5em;
+  text-align:center;
+  text-decoration:underline;
+}
+h4 {
+  position: relative;
+  margin: 2px auto;
+  text-align: left;
+}
+.code {
+  position: relative;
+  max-height:500px;
+  min-width:28em;
+  margin:1em 5px 1.5em 2em;
+  background:#fbfbfe;
+  border:1px solid #bbb;
+  font-size:16px;
+  padding:2px 3px 6px 3px;
+  color:#0101ff;
+  font-weight:800;
+  overflow:auto;
+  word-wrap:break-word;
+}
+#jsnstr, #host {
+  margin:.35em .4em 1em 2em;
+  max-height:500px;
+  background:#ffc;
+  border:1px solid #dadada;
+  padding:.4em .5em;
+  color:#333;
+  font-weight:800;
+  overflow:auto;
+}
+#from {
+  margin:3em auto 1em auto;
+  text-align:center;
+}
+</style>
+</head>
+<body>
+
+<h4>Result this JSON string</h4>
+<pre id="jsnstr"></pre><hr width="33%" /><br/>
+
+<h4>Results:</h4>
+<div id="host"></div>
+
+<script type="text/javascript">
+// <![CDATA[
+// gets the JSON string from a file with XML content ("test.xml")
+var jsonstr = xml2json.fromFile('test.xml', 'string');
+
+// adds the JSON string in HTML element with id="jsnstr"
+document.getElementById('jsnstr').innerHTML = jsonstr;
+
+// gets the JSON object from a file with XML content ("test.xml")
+var jsonobj = xml2json.fromFile('test.xml');
+
+// gets the attribute value from:  alexa.sd[0]['@attributes'].host
+// and the text from:  alexa.sd[0].title['#text']
+var attrhost = jsonobj.alexa.sd[0]['@attributes'].host;
+var txttitle = jsonobj.alexa.sd[0].title['#text'];
+
+// adds the values in HTML element with id="host"
+document.getElementById('host').innerHTML = 'Host: '+ attrhost +'<br/>Title: '+ txttitle;
+// ]]>
+</script>
+
+</body>
+</html>

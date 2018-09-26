@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Example String with XML to JSON</title>
+<script type="text/javascript" src="xml2json.js"></script>
+<style type="text/css">
+h1 {
+  margin:3px auto 8px auto;
+  font-size:1.5em;
+  text-align:center;
+  text-decoration:underline;
+}
+h4 {
+  position: relative;
+  margin: 2px auto;
+  text-align: left;
+}
+.code {
+  position: relative;
+  max-height:500px;
+  min-width:28em;
+  margin:1em 5px 1.5em 2em;
+  background:#fbfbfe;
+  border:1px solid #bbb;
+  font-size:16px;
+  padding:2px 3px 6px 3px;
+  color:#0101ff;
+  font-weight:800;
+  overflow:auto;
+  word-wrap:break-word;
+}
+#jsnstr, #url2 {
+  margin:.35em .4em 1em 2em;
+  max-height:500px;
+  background:#ffc;
+  border:1px solid #dadada;
+  padding:.4em .5em;
+  color:#333;
+  font-weight:800;
+  overflow:auto;
+}
+#from {
+  margin:3em auto 1em auto;
+  text-align:center;
+}
+</style>
+</head>
+<body>
+<h1>Example String with XML to JSON</h1>
+1. Convert string with XML content to JSON string.
+<h4>JavaScript Code</h4>
+<pre class="code">
+&lt;script type=&quot;text/javascript&quot; src=&quot;xml2json.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+// &lt;![CDATA[
+// string with XML
+var xmlstr = '&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;websites&gt;'+
+'&lt;site id=&quot;1&quot; pr=&quot;5&quot;&gt;&lt;title&gt;Web Programming Courses&lt;/title&gt;&lt;url&gt;http://coursesweb.net/&lt;/url&gt;&lt;/site&gt;'+
+'&lt;site id=&quot;2&quot; pr=&quot;4&quot;&gt;&lt;title&gt;Courses Games Anime&lt;/title&gt;&lt;url&gt;http://www.marplo.net/&lt;/url&gt;&lt;/site&gt;'+
+'&lt;/websites&gt;';
+
+// gets the JSON string
+var jsonstr = xml2json.fromStr(xmlstr, 'string');
+
+// adds the JSON string in HTML element with id=&quot;jsnstr&quot;
+document.getElementById('jsnstr').innerHTML = jsonstr;
+// ]]&gt;
+&lt;/script&gt;
+</pre>
+<h4>Result this JSON string</h4>
+<pre id="jsnstr"></pre><hr width="33%" /><br/>
+
+2. Convert string with XML content to JSON object. Gets and adds into an HTML element the value of an attribute, and the text from a specified XML tag.
+<h4>JavaScript Code</h4>
+<pre class="code">
+&lt;script type=&quot;text/javascript&quot; src=&quot;xml2json.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+// &lt;![CDATA[
+// string with XML
+var xmlstr = '&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;websites&gt;'+
+'&lt;site id=&quot;1&quot; pr=&quot;5&quot;&gt;&lt;title&gt;Web Programming Courses&lt;/title&gt;&lt;url&gt;http://coursesweb.net/&lt;/url&gt;&lt;/site&gt;'+
+'&lt;site id=&quot;2&quot; pr=&quot;4&quot;&gt;&lt;title&gt;Courses Games Anime&lt;/title&gt;&lt;url&gt;http://www.marplo.net/&lt;/url&gt;&lt;/site&gt;'+
+'&lt;/websites&gt;';
+
+// gets the JSON object
+var jsonobj = xml2json.fromStr(xmlstr);
+
+// gets the attribute value from:  websites.site[1]['@attributes'].id
+// and the text from:  websites.site[1].url['#text']
+var attrid = jsonobj.websites.site[1]['@attributes'].id;
+var txturl = jsonobj.websites.site[1].url['#text'];
+
+// adds the values in HTML element with id=&quot;url2&quot;
+document.getElementById('url2').innerHTML = 'ID: '+ attrid +'&lt;br/&gt;URL: '+ txturl;
+// ]]&gt;
+&lt;/script&gt;
+</pre>
+<h4>Results:</h4>
+<div id="url2"></div>
+
+<script type="text/javascript">
+// <![CDATA[
+// string with XML
+var xmlstr = '<?xml version="1.0" encoding="UTF-8"?><websites>'+
+'<site id="1" pr="5"><title>Web Programming Courses</title><url>http://coursesweb.net/</url></site>'+
+'<site id="2" pr="4"><title>Courses Games Anime</title><url>http://www.marplo.net/</url></site>'+
+'</websites>';
+
+// gets the JSON string
+var jsonstr = xml2json.fromStr(xmlstr, 'string');
+
+// adds the JSON string in HTML element with id="jsnstr"
+document.getElementById('jsnstr').innerHTML = jsonstr;
+
+// gets the JSON object
+var jsonobj = xml2json.fromStr(xmlstr);
+
+// gets the attribute value from:  websites.site[1]['@attributes'].id
+// and the text from:  websites.site[1].url['#text']
+var attrid = jsonobj.websites.site[1]['@attributes'].id;
+var txturl = jsonobj.websites.site[1].url['#text'];
+
+// adds the values in HTML element with id="url2"
+document.getElementById('url2').innerHTML = 'ID: '+ attrid +'<br/>URL: '+ txturl;
+// ]]>
+</script>
+<div id="from"><a href="http://coursesweb.net/javascript/" title="JavaScript / jQuery Courses">CoursesWeb.net</a></div>
+</body>
+</html>

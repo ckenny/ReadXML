@@ -1,15 +1,11 @@
 
 package com.study.med.pojo;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class Code {
 
     private String code;
     private String codeSystem;
     private String displayName;
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
     public String getCode() {
         return code;
@@ -36,13 +32,13 @@ public class Code {
     }
 
 
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("{");
+        if(code != null) sb.append("code:'").append(code).append('\'');
+        if(codeSystem != null) sb.append(", codeSystem:'").append(codeSystem).append('\'');
+        if(displayName != null) sb.append(", displayName:'").append(displayName).append('\'');
+        sb.append('}');
+        return sb.toString();
     }
-
-
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
-    }
-
 }

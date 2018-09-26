@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>Convert XML to JSON in JavaScript</title>
+<style type="text/css">
+pre {background:#fefe10;margin:8px 10px 8px 25px; font-weight:800; font-size:16px; color:#0001da;}
+.sb {font-weight:800;}
+.sbi {font-weight:800; font-style:italic;}
+</style>
+</head>
+<body>
+<center><h2>Convert XML to JSON in JavaScript</h2>
+<sup>from <a href="http://coursesweb.net/javascript/">coursesweb.net</a></sup></center><br />
+This script is a JavaScript object (xml2json) that can be used to <strong>convert XML content to JSON object, or to JSON string</strong>.<br/>
+ - The <span class="sb">xml2json</span> object has two methods to use:
+<ul>
+ <li><span class="sb">xml2json.fromFile('file.xml', ['string'])</span> - converts the XML stored in external file. The first parameter is a string with the XML file address. The second parameter is Optional; if this argument, with the value of "string" is added, the method returns the JSON String, otherwise, returns the JSON object.</li>
+ <li><span class="sb">xml2json.fromStr('xml string', ['string'])</span> - converts the XML stored into a string. The first parameter is a string with the XML content. The second parameter is Optional; if this argument, with the value of "string" is added, the method returns the JSON String, otherwise, returns the JSON object.</li>
+</ul>
+<h4>Usage</h4>
+ 1. Copy the "<span class="sbi">xml2json.js</span>" file on your server.<br/>
+ 2. In the web page in which you want to use the XML to JSON converter, add this code:
+<pre>&lt;script type=&quot;text/javascript&quot; src=&quot;xml2json.js&quot;&gt;&lt;/script&gt;</pre>
+ 3.a - If you want to convert an XML content from an external ".xml" file, call the <span class="sb">xml2json.fromFile('file.xml')</span> method in your JavaScript script. It returns the JSON object. If you want to convert the XML to JSON String, add a second argument with the value of "string".<br/>
+Example:
+<pre>
+// gets JSON object from an external xml file
+var objson = xml2json.fromFile('file.xml');
+
+// gets JSON string from an external xml file
+var strjson = xml2json.fromFile('file.xml', 'string');
+</pre><br/>
+ 3.b - If you want to convert an XML content stored into a String, call the <span class="sb">xml2json.fromStr('string with xml')</span> method in your JavaScript script. It returns the JSON object. If you want to convert the XML to JSON String, add a second argument with the value of "string".<br/>
+Example:
+<pre>
+var xmlstr = 'string with xml content';
+
+// gets JSON object from a string with xml content
+var objson = xml2json.fromStr(xmlstr);
+
+// gets JSON string from a string with xml content
+var strjson = xml2json.fromStr(xmlstr, 'string');
+</pre><br/>
+ - See also the examples from "test_xml_from_file.html" and "test_xml_from_string.html" files.<br/><br/>
+ &bull; To test this script online, click: <a href="http://coursesweb.net/javascript/convert-xml-json-javascript_s2#x2i" title="Test the XML to JSON Converter online">Test the XML to JSON Converter online</a><br/><br/>
+ - <span class="sbi">The script is Free, you can use it, modify, and publish it freely.</span><br/>
+</body>
+</html>

@@ -1,10 +1,6 @@
 
 package com.study.med.pojo;
 
-import java.util.HashMap;
-import java.util.Map;
-
-
 public class ObservationMedia {
 
 
@@ -13,8 +9,6 @@ public class ObservationMedia {
     private Value value;
 
     private String iD;
-
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
 
     public String getText() {
@@ -46,14 +40,13 @@ public class ObservationMedia {
         this.iD = iD;
     }
 
-
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("{");
+        if(text != null) sb.append("text:'").append(text).append('\'');
+        if(value != null) sb.append(", value:").append(value);
+        if(iD != null) sb.append(", iD:'").append(iD).append('\'');
+        sb.append('}');
+        return sb.toString();
     }
-
-
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
-    }
-
 }

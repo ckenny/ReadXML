@@ -31,8 +31,21 @@ public class ReadSetIdDetailsJaxb {
             for(Component component : components) {
                 if(component.getSection()!=null
                         && component.getSection().getTitle()!=null
-                        && component.getSection().getTitle().equals("DESCRIPTION")) {
-                    System.out.println("DESCRIPTION: " + component.getSection().getText());
+                        && (
+                                component.getSection().getTitle().contains("DESCRIPTION")
+                                || component.getSection().getTitle().contains("INDICATIONS AND USAGE")
+                                || component.getSection().getTitle().contains("INDICATIONS & USAGE")
+                                || component.getSection().getTitle().contains("DRUG ABUSE AND DEPENDENCE")
+                                || component.getSection().getTitle().contains("DRUG ABUSE & DEPENDENCE")
+                                || component.getSection().getTitle().contains("OVERDOSAGE")
+                                || component.getSection().getTitle().contains("DOSAGE AND ADMINISTRATION")
+                                || component.getSection().getTitle().contains("HOW SUPPLIED")
+                        )
+                ) {
+                    System.out.println(component.getSection().getTitle());
+                    System.out.println("==============================================");
+                    System.out.println(component.getSection().getText());
+                    System.out.println("==============================================");
                 }
             }
 

@@ -1,12 +1,7 @@
 
 package com.study.med.pojo;
 
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
-
-
-
 
 
 public class ManufacturedProduct {
@@ -23,8 +18,6 @@ public class ManufacturedProduct {
     private List<Ingredient> ingredient = null;
     private AsContent asContent;
 
-
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
     public ManufacturedProduct getManufacturedProduct() {
         return manufacturedProduct;
@@ -103,13 +96,19 @@ public class ManufacturedProduct {
     }
 
 
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("{");
+//        sb.append("manufacturedProduct=").append(manufacturedProduct);
+//        sb.append(", subjectOf=").append(subjectOf);
+//        sb.append(", consumedIn=").append(consumedIn);
+//        sb.append(", code=").append(code);
+        sb.append(" name:'").append(name).append('\'');
+//        sb.append(", formCode=").append(formCode);
+//        sb.append(", asEntityWithGeneric=").append(asEntityWithGeneric);
+//        sb.append(", ingredient=").append(ingredient);
+//        sb.append(", asContent=").append(asContent);
+        sb.append('}');
+        return sb.toString();
     }
-
-
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
-    }
-
 }

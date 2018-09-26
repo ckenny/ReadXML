@@ -21,8 +21,11 @@ public class ReadSetIdDetailsJson {
             String xml = new String(Files.readAllBytes(Paths.get(file.toURI())));
 
             JSONObject jsonObj = XML.toJSONObject(xml);
-            new Gson().fromJson(jsonObj.toString(), Document.class);
-            System.out.println("Document.title = " + ((JSONObject)jsonObj.get("document")).get("title"));
+            jsonObj = (JSONObject)jsonObj.get("document");
+            Document document = new Gson().fromJson(jsonObj.toString(), Document.class);
+            System.out.println("Document.title = " + document.getTitle());
+            System.out.println("Document.title = " + jsonObj.get("title"));
+            System.out.println(document);
 
         } catch (JSONException | IOException e) {
             e.printStackTrace();

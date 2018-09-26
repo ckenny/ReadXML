@@ -1,15 +1,6 @@
 
 package com.study.med.pojo;
 
-import java.util.HashMap;
-import java.util.Map;
-
-
-
-
-
-
-
 public class Value {
 
     private String code;
@@ -23,8 +14,6 @@ public class Value {
 
     private String value;
     private String text;
-
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
     public String getCode() {
         return code;
@@ -109,13 +98,20 @@ public class Value {
     }
 
 
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("{");
+        if(code!=null) sb.append("code:'").append(code).append('\'');
+        if(codeSystem!=null) sb.append(", codeSystem:'").append(codeSystem).append('\'');
+        if(displayName!=null) sb.append(", displayName:'").append(displayName).append('\'');
+        if(xsiType!=null) sb.append(", xsiType:'").append(xsiType).append('\'');
+        if(reference!=null) sb.append(", reference:").append(reference);
+        if(mediaType!=null) sb.append(", mediaType:'").append(mediaType).append('\'');
+        if(originalText!=null) sb.append(", originalText:'").append(originalText).append('\'');
+        if(unit!=null) sb.append(", unit:'").append(unit).append('\'');
+        if(value!=null) sb.append(", value:'").append(value).append('\'');
+        if(text!=null) sb.append(", text:'").append(text).append('\'');
+        sb.append('}');
+        return sb.toString();
     }
-
-
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
-    }
-
 }

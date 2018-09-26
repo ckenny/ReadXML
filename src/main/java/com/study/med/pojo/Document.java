@@ -2,8 +2,6 @@
 package com.study.med.pojo;
 
 import javax.xml.bind.annotation.XmlRootElement;
-import java.util.HashMap;
-import java.util.Map;
 
 @XmlRootElement(name="document", namespace = "urn:hl7-org:v3")
 public class Document {
@@ -30,8 +28,6 @@ public class Document {
     private String xmlnsXsi;
     
     private String xsiSchemaLocation;
-
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
 
     public Id getId() {
@@ -143,14 +139,16 @@ public class Document {
         this.xsiSchemaLocation = xsiSchemaLocation;
     }
 
-
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("{");
+        if(title != null) sb.append("\ntitle:'").append(title).append('\'');
+        if(effectiveTime != null) sb.append(", \neffectiveTime:").append(effectiveTime);
+        if(setId != null) sb.append(", \nsetId:").append(setId);
+        if(versionNumber != null) sb.append(", \nversionNumber:").append(versionNumber);
+        if(author != null) sb.append(", \nauthor:").append(author);
+        if(component != null) sb.append(", \ncomponent:").append(component);
+        sb.append("\n}");
+        return sb.toString();
     }
-
-
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
-    }
-
 }

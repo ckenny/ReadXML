@@ -1,17 +1,10 @@
 
 package com.study.med.pojo;
 
-import java.util.HashMap;
-import java.util.Map;
-
-
-
 public class Low {
 
 
     private String value;
-
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
 
     public String getValue() {
@@ -24,13 +17,10 @@ public class Low {
     }
 
 
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
+    @Override
+    public String toString() {
+        return "{" +
+                "value:'" + value + '\'' +
+                '}';
     }
-
-
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
-    }
-
 }
