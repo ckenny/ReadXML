@@ -142,12 +142,39 @@ public class Document {
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder("{");
-        if(title != null) sb.append("\ntitle:'").append(title).append('\'');
-        if(effectiveTime != null) sb.append(", \neffectiveTime:").append(effectiveTime);
-        if(setId != null) sb.append(", \nsetId:").append(setId);
-        if(versionNumber != null) sb.append(", \nversionNumber:").append(versionNumber);
-        if(author != null) sb.append(", \nauthor:").append(author);
-        if(component != null) sb.append(", \ncomponent:").append(component);
+        if(title != null) {
+            sb.append("\ntitle:'").append(title).append('\'');
+        }
+        if(effectiveTime != null) {
+            if(sb.length()>1) {
+                sb.append(',');
+            }
+            sb.append(" \neffectiveTime:").append(effectiveTime);
+        }
+        if(setId != null) {
+            if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
+                sb.append(',');
+            }
+            sb.append(" \nsetId:").append(setId);
+        }
+        if(versionNumber != null) {
+            if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
+                sb.append(',');
+            }
+            sb.append(" \nversionNumber:").append(versionNumber);
+        }
+        if(author != null) {
+            if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
+                sb.append(',');
+            }
+            sb.append(" \nauthor:").append(author);
+        }
+        if(component != null) {
+            if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
+                sb.append(',');
+            }
+            sb.append(" \ncomponent:").append(component);
+        }
         sb.append("\n}");
         return sb.toString();
     }

@@ -42,7 +42,8 @@ public class Text {
         StringBuilder stringBuilder = new StringBuilder();
         if(object != null) {
             if (object instanceof String) {
-                stringBuilder.append("\"").append(object).append("\"");
+                String tempString = ((String) object).replace('↵', '\n');
+                stringBuilder.append("\"").append(tempString).append("\"");
             } else if (object instanceof List) {
                 List<Object> objectList = (List<Object>) object;
                 String [] strings = new String[objectList.size()];

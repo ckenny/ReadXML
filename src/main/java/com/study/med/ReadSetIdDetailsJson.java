@@ -16,9 +16,12 @@ public class ReadSetIdDetailsJson {
     public static void main(String[] args) {
         try {
             ClassLoader classLoader = ClassLoader.getSystemClassLoader();
-            File file = new File(classLoader.getResource("setid_sample/3f3183df-3ecf-42a0-970d-f7b3669d9c74.xml").getFile());
+            File file = new File(classLoader.getResource("setid_sample_2/28ac5a7d-9a25-4194-86bd-ca89cc0a1373.xml").getFile());
+            //File file = new File(classLoader.getResource("setid_sample/3f3183df-3ecf-42a0-970d-f7b3669d9c74.xml").getFile());
 
             String xml = new String(Files.readAllBytes(Paths.get(file.toURI())));
+
+            xml = xml.replace('↵', ' ');
 
             JSONObject jsonObj = XML.toJSONObject(xml);
             jsonObj = (JSONObject)jsonObj.get("document");

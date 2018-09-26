@@ -10,9 +10,9 @@ public class Section {
     
     private EffectiveTime effectiveTime;
     
-    private Subject subject;
+    private Object subject;
     
-    private String title;
+    private Object title;
     
     private Text text;
     
@@ -51,22 +51,22 @@ public class Section {
     }
 
     
-    public Subject getSubject() {
-        return subject;
+    public Object getSubject() {
+        return Text.getObjectDetails(subject);
     }
 
     
-    public void setSubject(Subject subject) {
+    public void setSubject(Object subject) {
         this.subject = subject;
     }
 
     
     public String getTitle() {
-        return title;
+        return Text.getObjectDetails(title);
     }
 
     
-    public void setTitle(String title) {
+    public void setTitle(Object title) {
         this.title = title;
     }
 
@@ -121,13 +121,13 @@ public class Section {
             if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
                 sb.append(',');
             }
-            sb.append(" subject:").append(subject);
+            sb.append(" subject:").append(Text.getObjectDetails(subject));
         }
         if(title != null) {
             if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
                 sb.append(',');
             }
-            sb.append(" title:'").append(title).append('\'');
+            sb.append(" title:").append(Text.getObjectDetails(title));
         }
         if(text != null) {
             if(sb.length()>1 && sb.charAt(sb.length()-1) != ',') {
